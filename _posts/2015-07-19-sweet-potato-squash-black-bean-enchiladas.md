@@ -1,6 +1,6 @@
 ---
 id: 937
-title: 'Sweet Potato, Squash, &#038; Black Bean Enchiladas'
+title: 'Sweet Potato, Squash, & Black Bean Enchiladas'
 date: '2015-07-19T17:06:46-07:00'
 author: 'Gabe &amp; Meg'
 layout: post

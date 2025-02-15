@@ -1,6 +1,6 @@
 ---
 id: 785
-title: 'Butternut Squash Pecan &#038; Sage Pasta'
+title: 'Butternut Squash Pecan & Sage Pasta'
 date: '2014-11-08T22:07:13-08:00'
 author: 'Gabe &amp; Meg'
 layout: post

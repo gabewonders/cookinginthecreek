@@ -1,6 +1,6 @@
 ---
 id: 896
-title: 'Spaghetti Squash with Chickpeas &#038; Chard'
+title: 'Spaghetti Squash with Chickpeas & Chard'
 date: '2015-01-10T11:31:53-08:00'
 author: 'Gabe &amp; Meg'
 layout: post

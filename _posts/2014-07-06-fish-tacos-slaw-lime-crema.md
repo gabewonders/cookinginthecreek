@@ -1,6 +1,6 @@
 ---
 id: 661
-title: 'Fish Tacos with Slaw &#038; Lime Crema'
+title: 'Fish Tacos with Slaw & Lime Crema'
 date: '2014-07-06T17:49:59-07:00'
 author: 'Gabe &amp; Meg'
 layout: post

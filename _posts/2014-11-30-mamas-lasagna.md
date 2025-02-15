@@ -1,6 +1,6 @@
 ---
 id: 861
-title: 'Mama&#8217;s Lasagna'
+title: 'Mama's Lasagna'
 date: '2014-11-30T19:51:16-08:00'
 author: 'Gabe &amp; Meg'
 layout: post

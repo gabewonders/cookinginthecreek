@@ -1,6 +1,6 @@
 ---
 id: 555
-title: 'PB &#038; J Smoothie'
+title: 'PB & J Smoothie'
 date: '2014-05-26T13:51:39-07:00'
 author: 'Gabe &amp; Meg'
 layout: post

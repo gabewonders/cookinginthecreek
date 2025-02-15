@@ -1,6 +1,6 @@
 ---
 id: 543
-title: 'Dad&#8217;s Meatballs'
+title: 'Dad's Meatballs'
 date: '2014-05-24T11:44:12-07:00'
 author: 'Gabe &amp; Meg'
 layout: post
