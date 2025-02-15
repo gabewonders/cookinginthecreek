@@ -30,9 +30,9 @@ tags:
 
 If you’re looking for an easy weeknight meal with whatever is lying around your kitchen, this is the right recipe for you! There’s many different one-pot pasta recipes out there, and you can pretty much tailor the recipe to any ingredients you have on hand. I happen to have zucchini and broccoli, but you could use mushrooms, bell peppers, artichokes, onions, olives, spinach, asparagus, and the list goes on! This particular recipe has a creamy sauce, just using a small amount of half and half with freshly grated parmesan cheese. The herbs give it a freshness that just brings the whole dish to life, that you’ll forget you made it all in one pot!
 
-[![creamy veggie one pot spaghetti ](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/06/creamy-veggie-one-pot-spaghetti-001-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/06/creamy-veggie-one-pot-spaghetti-001.jpg)
+[![creamy veggie one pot spaghetti ](/wp-content/uploads/2014/06/creamy-veggie-one-pot-spaghetti-001-1024x681.jpg)](/wp-content/uploads/2014/06/creamy-veggie-one-pot-spaghetti-001.jpg)
 
-[![creamy veggie one pot spaghetti](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/06/creamy-veggie-one-pot-spaghetti-002-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/06/creamy-veggie-one-pot-spaghetti-002.jpg)
+[![creamy veggie one pot spaghetti](/wp-content/uploads/2014/06/creamy-veggie-one-pot-spaghetti-002-1024x681.jpg)](/wp-content/uploads/2014/06/creamy-veggie-one-pot-spaghetti-002.jpg)
 
 ### Creamy Veggie One-Pot Spaghetti
 

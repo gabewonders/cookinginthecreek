@@ -41,7 +41,7 @@ Here is the [Thug Kitchen trailer](http://www.thugkitchen.com/cookbook_trailer).
 
 Gabe and I have tried a handful of recipes and so far they have all been delicious! We hope to share the rest soon. To start though, try these Chocolate Fudge Pops! They are ridiculously simple to make and only require three ingredients! Can’t beat that. Enjoy!
 
-[![chocolate fudge pops](http://cookinginthecreek.com/wordpress/wp-content/uploads/2015/04/fudge-pop-1024x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2015/04/fudge-pop.jpg)
+[![chocolate fudge pops](/wp-content/uploads/2015/04/fudge-pop-1024x1024.jpg)](/wp-content/uploads/2015/04/fudge-pop.jpg)
 
 ### Chocolate Fudge Pops
 

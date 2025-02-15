@@ -13,15 +13,15 @@ categories:
 
 This is another great soup recipe that’s really easy to make! I loved Campbell’s Tomato soup as a kid, but this soup is totally different, in a great way! I like to think of it as grown-up tomato soup with a twist! The addition of the saffron really adds a depth of flavor that I never would have imagined in tomato soup. The ingredients couldn’t be more simple either. Enjoy!
 
-[![Tomato Soup 001](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Tomato-Soup-001-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Tomato-Soup-001.jpg)
+[![Tomato Soup 001](/wp-content/uploads/2014/02/Tomato-Soup-001-1024x680.jpg)](/wp-content/uploads/2014/02/Tomato-Soup-001.jpg)
 
-[![Tomato Soup 003](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Tomato-Soup-003-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Tomato-Soup-003.jpg)
+[![Tomato Soup 003](/wp-content/uploads/2014/02/Tomato-Soup-003-1024x680.jpg)](/wp-content/uploads/2014/02/Tomato-Soup-003.jpg)
 
-[![Tomato Soup 004](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Tomato-Soup-004-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Tomato-Soup-004.jpg)
+[![Tomato Soup 004](/wp-content/uploads/2014/02/Tomato-Soup-004-1024x680.jpg)](/wp-content/uploads/2014/02/Tomato-Soup-004.jpg)
 
-[![Tomato Soup 002](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Tomato-Soup-002-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Tomato-Soup-002.jpg)
+[![Tomato Soup 002](/wp-content/uploads/2014/02/Tomato-Soup-002-1024x680.jpg)](/wp-content/uploads/2014/02/Tomato-Soup-002.jpg)
 
-[![Tomato Soup 005](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Tomato-Soup-005-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Tomato-Soup-005.jpg)
+[![Tomato Soup 005](/wp-content/uploads/2014/02/Tomato-Soup-005-1024x680.jpg)](/wp-content/uploads/2014/02/Tomato-Soup-005.jpg)
 
 Prep time: 10 minutes
 

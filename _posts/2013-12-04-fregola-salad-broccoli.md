@@ -22,27 +22,27 @@ categories:
 
 I was watching *Giada at Home* last weekend, and drooling over the amazing dishes she was making. There was one recipe that stood out, Fregola Salad with Broccoli, so I decided to make it that night. The grocery store didn’t have Fregola pasta, but Israeli couscous is a fine substitute. This pasta salad is great for any time of year and could be used for lunch or dinner, or even just a side dish. Gabe and I ate it for dinner, it was really fresh tasting with the lemon juice and zest, but also comforting enough to eat on a cold fall night. Buon appetito!
 
-[![Fregola Salad with Broccoli 1](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/IMG_0083-1024x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/IMG_0083.jpg)
+[![Fregola Salad with Broccoli 1](/wp-content/uploads/2013/12/IMG_0083-1024x1024.jpg)](/wp-content/uploads/2013/12/IMG_0083.jpg)
 
-[![Fregola Salad with Broccoli 2](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/IMG_0084-1024x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/IMG_0084.jpg)
+[![Fregola Salad with Broccoli 2](/wp-content/uploads/2013/12/IMG_0084-1024x1024.jpg)](/wp-content/uploads/2013/12/IMG_0084.jpg)
 
-[![Fregola Salad with Broccoli 3](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/IMG_0085-1024x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/IMG_0085.jpg)
+[![Fregola Salad with Broccoli 3](/wp-content/uploads/2013/12/IMG_0085-1024x1024.jpg)](/wp-content/uploads/2013/12/IMG_0085.jpg)
 
-[![Fregola Salad with Broccoli 4](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/IMG_0086-1024x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/IMG_0086.jpg)
+[![Fregola Salad with Broccoli 4](/wp-content/uploads/2013/12/IMG_0086-1024x1024.jpg)](/wp-content/uploads/2013/12/IMG_0086.jpg)
 
-[![Fregola Salad with Broccoli 5](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/IMG_0087-1024x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/IMG_0087.jpg)
+[![Fregola Salad with Broccoli 5](/wp-content/uploads/2013/12/IMG_0087-1024x1024.jpg)](/wp-content/uploads/2013/12/IMG_0087.jpg)
 
-[![Fregola Salad with Broccoli 6](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/IMG_0088-1024x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/IMG_0088.jpg)
+[![Fregola Salad with Broccoli 6](/wp-content/uploads/2013/12/IMG_0088-1024x1024.jpg)](/wp-content/uploads/2013/12/IMG_0088.jpg)
 
-[![Fregola Salad with Broccoli 7](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/IMG_1703-1024x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/IMG_1703.jpg)
+[![Fregola Salad with Broccoli 7](/wp-content/uploads/2013/12/IMG_1703-1024x1024.jpg)](/wp-content/uploads/2013/12/IMG_1703.jpg)
 
-[![Fregola Salad with Broccoli 8](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/IMG_1704-1024x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/IMG_1704.jpg)
+[![Fregola Salad with Broccoli 8](/wp-content/uploads/2013/12/IMG_1704-1024x1024.jpg)](/wp-content/uploads/2013/12/IMG_1704.jpg)
 
-[![Fregola Salad with Broccoli 9](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/IMG_1706-1024x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/IMG_1706.jpg)
+[![Fregola Salad with Broccoli 9](/wp-content/uploads/2013/12/IMG_1706-1024x1024.jpg)](/wp-content/uploads/2013/12/IMG_1706.jpg)
 
-[![Fregola Salad with Broccoli 10](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/IMG_1708-1024x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/IMG_1708.jpg)
+[![Fregola Salad with Broccoli 10](/wp-content/uploads/2013/12/IMG_1708-1024x1024.jpg)](/wp-content/uploads/2013/12/IMG_1708.jpg)
 
-[![Fregola Salad with Broccoli](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/IMG_1709-1024x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/IMG_1709.jpg)
+[![Fregola Salad with Broccoli](/wp-content/uploads/2013/12/IMG_1709-1024x1024.jpg)](/wp-content/uploads/2013/12/IMG_1709.jpg)
 
 Prep time: 25 minutes
 

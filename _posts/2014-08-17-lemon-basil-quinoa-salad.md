@@ -28,11 +28,11 @@ tags:
 
 This is another recipe I’ve made once or twice before, but it was pre-Cooking in the Creek. The other weekend some of our friends were having a BBQ at their house, and we wanted to bring something for everyone to share. This was a great addition to the delicious burgers and BBQ chicken they made. This quinoa salad has great flavor with the fresh lemon, basil and a variety of veggies. Any of the ingredients can be interchanged to your personal preference. Enjoy!
 
-[![lemon-basil-quinoa-salad](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/08/lemon-basil-quinoa-salad-1-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/08/lemon-basil-quinoa-salad-1.jpg)
+[![lemon-basil-quinoa-salad](/wp-content/uploads/2014/08/lemon-basil-quinoa-salad-1-1024x681.jpg)](/wp-content/uploads/2014/08/lemon-basil-quinoa-salad-1.jpg)
 
-[![lemon-basil-quinoa-salad](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/08/lemon-basil-quinoa-salad-2-1024x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/08/lemon-basil-quinoa-salad-2.jpg)
+[![lemon-basil-quinoa-salad](/wp-content/uploads/2014/08/lemon-basil-quinoa-salad-2-1024x1024.jpg)](/wp-content/uploads/2014/08/lemon-basil-quinoa-salad-2.jpg)
 
-[![lemon-basil-quinoa-salad](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/08/lemon-basil-quinoa-salad-3-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/08/lemon-basil-quinoa-salad-3.jpg)
+[![lemon-basil-quinoa-salad](/wp-content/uploads/2014/08/lemon-basil-quinoa-salad-3-1024x681.jpg)](/wp-content/uploads/2014/08/lemon-basil-quinoa-salad-3.jpg)
 
 ### Lemon Basil Quinoa Salad
 

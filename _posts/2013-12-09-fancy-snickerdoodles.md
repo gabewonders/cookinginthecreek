@@ -21,35 +21,35 @@ categories:
 
 This cookie recipe could be great for your next holiday party or potluck, or even just to devour for yourself at home! I call them *Fancy Snickerdoodles* because they’ve got the same classic cinnamon sugar-coating as a snickerdoodle, but inside there’s a lovely surprise of rich flavors, from the brown butter, toasted pecans and oatmeal. Just make sure not to forget they’re in the oven like I did with my second batch! The extra crispy ones were still delicious, but cooking them for just about 10 minutes until the edges are slightly golden brown, makes for a delectable chewy interior! Enjoy!
 
-[![Fancy Snickerdoodles - 01](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Fancy-Snickerdoodles-01-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Fancy-Snickerdoodles-01.jpg)
+[![Fancy Snickerdoodles - 01](/wp-content/uploads/2013/12/Fancy-Snickerdoodles-01-1024x680.jpg)](/wp-content/uploads/2013/12/Fancy-Snickerdoodles-01.jpg)
 
-[![Fancy Snickerdoodles - 03](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Fancy-Snickerdoodles-03-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Fancy-Snickerdoodles-03.jpg)
+[![Fancy Snickerdoodles - 03](/wp-content/uploads/2013/12/Fancy-Snickerdoodles-03-1024x680.jpg)](/wp-content/uploads/2013/12/Fancy-Snickerdoodles-03.jpg)
 
-[![Fancy Snickerdoodles - 04](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Fancy-Snickerdoodles-04-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Fancy-Snickerdoodles-04.jpg)
+[![Fancy Snickerdoodles - 04](/wp-content/uploads/2013/12/Fancy-Snickerdoodles-04-1024x680.jpg)](/wp-content/uploads/2013/12/Fancy-Snickerdoodles-04.jpg)
 
-[![Fancy Snickerdoodles - 05](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Fancy-Snickerdoodles-05-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Fancy-Snickerdoodles-05.jpg)
+[![Fancy Snickerdoodles - 05](/wp-content/uploads/2013/12/Fancy-Snickerdoodles-05-1024x680.jpg)](/wp-content/uploads/2013/12/Fancy-Snickerdoodles-05.jpg)
 
-[![Fancy Snickerdoodles - 02](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Fancy-Snickerdoodles-02-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Fancy-Snickerdoodles-02.jpg)
+[![Fancy Snickerdoodles - 02](/wp-content/uploads/2013/12/Fancy-Snickerdoodles-02-1024x680.jpg)](/wp-content/uploads/2013/12/Fancy-Snickerdoodles-02.jpg)
 
-[![Fancy Snickerdoodles - 06](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Fancy-Snickerdoodles-06-680x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Fancy-Snickerdoodles-06.jpg)
+[![Fancy Snickerdoodles - 06](/wp-content/uploads/2013/12/Fancy-Snickerdoodles-06-680x1024.jpg)](/wp-content/uploads/2013/12/Fancy-Snickerdoodles-06.jpg)
 
-[![Fancy Snickerdoodles - 07](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Fancy-Snickerdoodles-07-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Fancy-Snickerdoodles-07.jpg)
+[![Fancy Snickerdoodles - 07](/wp-content/uploads/2013/12/Fancy-Snickerdoodles-07-1024x680.jpg)](/wp-content/uploads/2013/12/Fancy-Snickerdoodles-07.jpg)
 
-[![Fancy Snickerdoodles - 08](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Fancy-Snickerdoodles-08-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Fancy-Snickerdoodles-08.jpg)
+[![Fancy Snickerdoodles - 08](/wp-content/uploads/2013/12/Fancy-Snickerdoodles-08-1024x680.jpg)](/wp-content/uploads/2013/12/Fancy-Snickerdoodles-08.jpg)
 
-[![Fancy Snickerdoodles - 09](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Fancy-Snickerdoodles-09-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Fancy-Snickerdoodles-09.jpg)
+[![Fancy Snickerdoodles - 09](/wp-content/uploads/2013/12/Fancy-Snickerdoodles-09-1024x680.jpg)](/wp-content/uploads/2013/12/Fancy-Snickerdoodles-09.jpg)
 
-[![Fancy Snickerdoodles - 10](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Fancy-Snickerdoodles-10-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Fancy-Snickerdoodles-10.jpg)
+[![Fancy Snickerdoodles - 10](/wp-content/uploads/2013/12/Fancy-Snickerdoodles-10-1024x680.jpg)](/wp-content/uploads/2013/12/Fancy-Snickerdoodles-10.jpg)
 
-[![Fancy Snickerdoodles - 11](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Fancy-Snickerdoodles-11-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Fancy-Snickerdoodles-11.jpg)
+[![Fancy Snickerdoodles - 11](/wp-content/uploads/2013/12/Fancy-Snickerdoodles-11-1024x680.jpg)](/wp-content/uploads/2013/12/Fancy-Snickerdoodles-11.jpg)
 
-[![Fancy Snickerdoodles - 12](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Fancy-Snickerdoodles-12-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Fancy-Snickerdoodles-12.jpg)
+[![Fancy Snickerdoodles - 12](/wp-content/uploads/2013/12/Fancy-Snickerdoodles-12-1024x680.jpg)](/wp-content/uploads/2013/12/Fancy-Snickerdoodles-12.jpg)
 
-[![Fancy Snickerdoodles - 13](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Fancy-Snickerdoodles-13-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Fancy-Snickerdoodles-13.jpg)
+[![Fancy Snickerdoodles - 13](/wp-content/uploads/2013/12/Fancy-Snickerdoodles-13-1024x680.jpg)](/wp-content/uploads/2013/12/Fancy-Snickerdoodles-13.jpg)
 
-[![Fancy Snickerdoodles - 14](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Fancy-Snickerdoodles-14-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Fancy-Snickerdoodles-14.jpg)
+[![Fancy Snickerdoodles - 14](/wp-content/uploads/2013/12/Fancy-Snickerdoodles-14-1024x680.jpg)](/wp-content/uploads/2013/12/Fancy-Snickerdoodles-14.jpg)
 
-[![Fancy Snickerdoodles - 15](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Fancy-Snickerdoodles-15-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Fancy-Snickerdoodles-15.jpg)
+[![Fancy Snickerdoodles - 15](/wp-content/uploads/2013/12/Fancy-Snickerdoodles-15-1024x680.jpg)](/wp-content/uploads/2013/12/Fancy-Snickerdoodles-15.jpg)
 
 Prep time: 30 minutes
 

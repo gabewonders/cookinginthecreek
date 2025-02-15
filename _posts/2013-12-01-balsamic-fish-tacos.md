@@ -21,13 +21,13 @@ categories:
 
 Megan and I bought a large bag of frozen Ono fish from Costco, but we had never really cooked Ono before and we were at a lost. The first couple times we tried it, the results were less than exciting, so we decided you can’t go wrong with fish tacos! We found the below recipe, which really gives a flare to the usual fish taco recipes out there. These balsamic fish tacos have become a favorite of ours and I hope they become a favorite for you too.
 
-[![Balsamic Fish Tacos 1](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Balsamic-Fish-Tacos-1-1024x768.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Balsamic-Fish-Tacos-1.jpg)
+[![Balsamic Fish Tacos 1](/wp-content/uploads/2013/12/Balsamic-Fish-Tacos-1-1024x768.jpg)](/wp-content/uploads/2013/12/Balsamic-Fish-Tacos-1.jpg)
 
-[![Balsamic Fish Tacos 2](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Balsamic-Fish-Tacos-2-1024x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Balsamic-Fish-Tacos-2.jpg)
+[![Balsamic Fish Tacos 2](/wp-content/uploads/2013/12/Balsamic-Fish-Tacos-2-1024x1024.jpg)](/wp-content/uploads/2013/12/Balsamic-Fish-Tacos-2.jpg)
 
-[![Balsamic Fish Tacos 3](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Balsamic-Fish-Tacos-3-1024x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Balsamic-Fish-Tacos-3.jpg)
+[![Balsamic Fish Tacos 3](/wp-content/uploads/2013/12/Balsamic-Fish-Tacos-3-1024x1024.jpg)](/wp-content/uploads/2013/12/Balsamic-Fish-Tacos-3.jpg)
 
-[![Balsamic Fish Tacos](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/IMG_0045-1024x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/IMG_0045-e1385935568761.jpg)
+[![Balsamic Fish Tacos](/wp-content/uploads/2013/12/IMG_0045-1024x1024.jpg)](/wp-content/uploads/2013/12/IMG_0045-e1385935568761.jpg)
 
 Prep Time: 15 minutes
 

@@ -23,11 +23,11 @@ tags:
 
 <div>Everyone loves fresh grilled fish tacos in the summer. This recipe is easy enough to make at home and even during the week. I wanted to make a new recipe for the blog last week, but at the same time didn’t feel like buying a ton of ingredients at the store. I chose this recipe because I had mostly everything at home already from the [Thai Peanut Quinoa Salad](http://cookinginthecreek.com/thai-peanut-quinoa-salad/) that I made the previous week. I love it when that happens! You can use any white fish for these tacos. I happened to have Ono on hand already, but Mahi Mahi, or Red Snapper would be delicious too. Feel free to swap the ingredients for whatever you may have on hand. Enjoy!
 
-[![fish-tacos-with-slaw-and-crema 006](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/fish-tacos-with-slaw-and-crema-006-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/fish-tacos-with-slaw-and-crema-006.jpg)
+[![fish-tacos-with-slaw-and-crema 006](/wp-content/uploads/2014/07/fish-tacos-with-slaw-and-crema-006-1024x681.jpg)](/wp-content/uploads/2014/07/fish-tacos-with-slaw-and-crema-006.jpg)
 
-[![fish-tacos-with-slaw-and-crema 005](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/fish-tacos-with-slaw-and-crema-005-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/fish-tacos-with-slaw-and-crema-005.jpg)
+[![fish-tacos-with-slaw-and-crema 005](/wp-content/uploads/2014/07/fish-tacos-with-slaw-and-crema-005-1024x681.jpg)](/wp-content/uploads/2014/07/fish-tacos-with-slaw-and-crema-005.jpg)
 
-[![fish tacos with slaw and crema](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/fish-tacos-with-slaw-and-crema-004-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/fish-tacos-with-slaw-and-crema-004.jpg)
+[![fish tacos with slaw and crema](/wp-content/uploads/2014/07/fish-tacos-with-slaw-and-crema-004-1024x681.jpg)](/wp-content/uploads/2014/07/fish-tacos-with-slaw-and-crema-004.jpg)
 
 
 ### Fish Tacos with Slaw &amp; Lime Crema

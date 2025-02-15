@@ -21,7 +21,7 @@ categories:
 
 Each Thanksgiving at my parents house, I’m in charge of the Cranberry sauce, and this year I decided to jazz it up a bit! This recipe has pears added and honey instead of cane sugar. You can definitely taste the flavor of the honey, which complements the tartness of the cranberries very nicely. Try it out for your next holiday feast!
 
-[![Cranberry Sauce 1](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/IMG_0090-1024x768.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/IMG_0090.jpg)
+[![Cranberry Sauce 1](/wp-content/uploads/2013/12/IMG_0090-1024x768.jpg)](/wp-content/uploads/2013/12/IMG_0090.jpg)
 
 Our Thanksgiving Dinner
 

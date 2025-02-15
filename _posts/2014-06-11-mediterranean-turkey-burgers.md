@@ -28,11 +28,11 @@ tags:
 
 Lately, I’ve tried to get in the habit of taking Wednesday nights off from the gym, and coming straight home from work to try a new recipe. My hope is that the end product turns out good enough to post on the blog. Sadly not every recipe makes the cut. This week was a success though! I usually try to go to the grocery store on my lunch and get all the ingredients I need, so when I get home I can start the recipe and not have to rush. Cooking is much more therapeutic when you can do it at a leisurely pace. I had Gabe pick the recipe this week, because he always picks something I wouldn’t necessarily choose myself. This week was Mediterranean Turkey Burgers. The recipe is simple enough for a weeknight meal, and can easily be doubled for a crowd if you’re entertaining. The ingredients can be swapped to your taste and to whatever may be in stock in your kitchen. Καλή όρεξη! That’s “bon appétit” in Greek ; )
 
-[![Mediterranean Turkey Burgers](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/06/Mediterranean-Turkey-Burgers-001-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/06/Mediterranean-Turkey-Burgers-001.jpg)
+[![Mediterranean Turkey Burgers](/wp-content/uploads/2014/06/Mediterranean-Turkey-Burgers-001-1024x681.jpg)](/wp-content/uploads/2014/06/Mediterranean-Turkey-Burgers-001.jpg)
 
-[![Mediterranean Turkey Burgers](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/06/Mediterranean-Turkey-Burgers-002-681x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/06/Mediterranean-Turkey-Burgers-002.jpg)
+[![Mediterranean Turkey Burgers](/wp-content/uploads/2014/06/Mediterranean-Turkey-Burgers-002-681x1024.jpg)](/wp-content/uploads/2014/06/Mediterranean-Turkey-Burgers-002.jpg)
 
-[![Mediterranean-Turkey-Burgers 003](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/06/Mediterranean-Turkey-Burgers-003-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/06/Mediterranean-Turkey-Burgers-003.jpg)
+[![Mediterranean-Turkey-Burgers 003](/wp-content/uploads/2014/06/Mediterranean-Turkey-Burgers-003-1024x681.jpg)](/wp-content/uploads/2014/06/Mediterranean-Turkey-Burgers-003.jpg)
 
 ### Mediterranean Turkey Burgers
 

@@ -26,9 +26,9 @@ tags:
 
 A lot of people have been asking lately how our blog is going, so I felt compelled this weekend to get a new post up, since it’s been awhile. I got home from the gym yesterday morning and decided to make a smoothie with the mass amounts of fruits and veggies that we got at Costco this past week. I think we may have overdone it a bit, which is easy to do when shopping at Costco. This is the first time I’ve used avocado in my green smoothie, and it really added a nice creaminess to it. I love getting in some vegetables in my first meal of the day if possible, so I made sure to add a big handful of power greens, which gives the smoothie a beautiful color. I was reading an article the other day that said don’t wait until the last meal of the day to get in your veggies, and I didn’t realize that I tend to do that. I always make sure of course to have fruit during the day, but sometimes forget about vegetables until dinner time. This smoothie is a great way to start your day and get your veggie count going early!
 
-[![super-green-smoothie-1](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/09/super-green-smoothie-1-681x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/09/super-green-smoothie-1.jpg)
+[![super-green-smoothie-1](/wp-content/uploads/2014/09/super-green-smoothie-1-681x1024.jpg)](/wp-content/uploads/2014/09/super-green-smoothie-1.jpg)
 
-[![super-green-smoothie-](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/09/super-green-smoothie-2-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/09/super-green-smoothie-2.jpg)
+[![super-green-smoothie-](/wp-content/uploads/2014/09/super-green-smoothie-2-1024x681.jpg)](/wp-content/uploads/2014/09/super-green-smoothie-2.jpg)
 
 ### Avocado Green Smoothie
 

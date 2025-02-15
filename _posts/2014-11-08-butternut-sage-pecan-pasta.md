@@ -27,9 +27,9 @@ A couple of weeks ago Gabe and I were browsing different food blogs in hopes of 
 
 For this dish the whole wheat pasta is tossed in wonderful autumn flavors, with butternut squash, fresh sage, leafy greens and pecans. It’s a lovely dish for fall that satisfies your belly, but doesn’t weight you down.
 
-[![The whole wheat pasta tossed in delicious autumn flavors, with butternut squash, fresh sage, leafy greens and pecans. | cookinginthecreek.com](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/11/Butternut-Sage-Pecan-Pasta-2-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/11/Butternut-Sage-Pecan-Pasta-2.jpg)
+[![The whole wheat pasta tossed in delicious autumn flavors, with butternut squash, fresh sage, leafy greens and pecans. | cookinginthecreek.com](/wp-content/uploads/2014/11/Butternut-Sage-Pecan-Pasta-2-1024x681.jpg)](/wp-content/uploads/2014/11/Butternut-Sage-Pecan-Pasta-2.jpg)
 
-[![The whole wheat pasta tossed in delicious autumn flavors, with butternut squash, fresh sage, leafy greens and pecans. | cookinginthecreek.com](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/11/Butternut-Sage-Pecan-Pasta-3-681x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/11/Butternut-Sage-Pecan-Pasta-3.jpg)
+[![The whole wheat pasta tossed in delicious autumn flavors, with butternut squash, fresh sage, leafy greens and pecans. | cookinginthecreek.com](/wp-content/uploads/2014/11/Butternut-Sage-Pecan-Pasta-3-681x1024.jpg)](/wp-content/uploads/2014/11/Butternut-Sage-Pecan-Pasta-3.jpg)
 
 ### Butternut Squash Pecan &amp; Sage Pasta
 

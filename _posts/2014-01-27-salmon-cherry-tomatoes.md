@@ -17,23 +17,23 @@ tags:
 
 Megan and I nearly forgot that we had frozen salmon fillets tucked away in the back of our freezer. This particular salmon came from a fishing trip that Megan’s dad (Rudy), Megan’s sister’s fiance (Brent) and myself went on back in July of 2013. The last time I went out on the ocean I got sea sick, but that was over a decade ago. So, I thought to myself, I’m all grown up now, I can handle it. Well this was by far the most miserable time I have ever spent on a boat and is perhaps the reason why the salmon was abandoned in the freezer. Rudy ended up catching his limit of two salmon and Brent came home empty handed, but at least not with an empty stomach like myself.
 
-[![Gabe, Brent and Rudy on Salmon Fishing Trip](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/01/Skiing-Homewood-Girls-Gabe-071-1024x768.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/01/Skiing-Homewood-Girls-Gabe-071.jpg)
+[![Gabe, Brent and Rudy on Salmon Fishing Trip](/wp-content/uploads/2014/01/Skiing-Homewood-Girls-Gabe-071-1024x768.jpg)](/wp-content/uploads/2014/01/Skiing-Homewood-Girls-Gabe-071.jpg)
 
-[![Rudy's big catch](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/01/Skiing-Homewood-Girls-Gabe-099-768x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/01/Skiing-Homewood-Girls-Gabe-099.jpg)
+[![Rudy's big catch](/wp-content/uploads/2014/01/Skiing-Homewood-Girls-Gabe-099-768x1024.jpg)](/wp-content/uploads/2014/01/Skiing-Homewood-Girls-Gabe-099.jpg)
 
 Knowing that this salmon didn’t need much in order to taste amazing, we thought this salmon and cherry tomato recipe was just right. It doesn’t mask the taste of the salmon, which is great since Rudy would never forgive me for ruining his big catch. The melting tomatoes are a perfect side or can even be placed on top of the salmon. We cooked a side of french string beans to go along with it. We hope you enjoy the dish!
 
-[![Salmon and Cherry Tomatoes](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/01/Salmon-and-Cherry-Tomatoes-1-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/01/Salmon-and-Cherry-Tomatoes-1-e1390868495235.jpg)
+[![Salmon and Cherry Tomatoes](/wp-content/uploads/2014/01/Salmon-and-Cherry-Tomatoes-1-1024x680.jpg)](/wp-content/uploads/2014/01/Salmon-and-Cherry-Tomatoes-1-e1390868495235.jpg)
 
-[![Salmon and Cherry Tomatoes](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/01/Salmon-and-Cherry-Tomatoes-2-1024x682.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/01/Salmon-and-Cherry-Tomatoes-2-e1390868529284.jpg)
+[![Salmon and Cherry Tomatoes](/wp-content/uploads/2014/01/Salmon-and-Cherry-Tomatoes-2-1024x682.jpg)](/wp-content/uploads/2014/01/Salmon-and-Cherry-Tomatoes-2-e1390868529284.jpg)
 
-[![Salmon and Cherry Tomatoes](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/01/Salmon-and-Cherry-Tomatoes-3-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/01/Salmon-and-Cherry-Tomatoes-3-e1390868585416.jpg)
+[![Salmon and Cherry Tomatoes](/wp-content/uploads/2014/01/Salmon-and-Cherry-Tomatoes-3-1024x680.jpg)](/wp-content/uploads/2014/01/Salmon-and-Cherry-Tomatoes-3-e1390868585416.jpg)
 
-[![Salmon and Cherry Tomatoes](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/01/Salmon-and-Cherry-Tomatoes-4-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/01/Salmon-and-Cherry-Tomatoes-4-e1390868628516.jpg)
+[![Salmon and Cherry Tomatoes](/wp-content/uploads/2014/01/Salmon-and-Cherry-Tomatoes-4-1024x680.jpg)](/wp-content/uploads/2014/01/Salmon-and-Cherry-Tomatoes-4-e1390868628516.jpg)
 
-[![Salmon and Cherry Tomatoes](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/01/Salmon-and-Cherry-Tomatoes-5-682x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/01/Salmon-and-Cherry-Tomatoes-5-e1390868657367.jpg)
+[![Salmon and Cherry Tomatoes](/wp-content/uploads/2014/01/Salmon-and-Cherry-Tomatoes-5-682x1024.jpg)](/wp-content/uploads/2014/01/Salmon-and-Cherry-Tomatoes-5-e1390868657367.jpg)
 
-[![Salmon and Cherry Tomatoes](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/01/Salmon-and-Cherry-Tomatoes-6-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/01/Salmon-and-Cherry-Tomatoes-6-e1390868710645.jpg)
+[![Salmon and Cherry Tomatoes](/wp-content/uploads/2014/01/Salmon-and-Cherry-Tomatoes-6-1024x680.jpg)](/wp-content/uploads/2014/01/Salmon-and-Cherry-Tomatoes-6-e1390868710645.jpg)
 
 Prep time: 10 minutes
 

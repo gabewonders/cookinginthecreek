@@ -21,13 +21,13 @@ My Dad wasn’t always the master chef he is today in the kitchen. When I was li
 
 *My family circa August 1994 – Dad’s 33rd birthday.*
 
- *[![August1994](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/05/August1994-1024x669.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/05/August1994.jpg)*
+ *[![August1994](/wp-content/uploads/2014/05/August1994-1024x669.jpg)](/wp-content/uploads/2014/05/August1994.jpg)*
 
-### [![Dad's Meatballs](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/05/DSC_0077-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/05/DSC_0077.jpg)
+### [![Dad's Meatballs](/wp-content/uploads/2014/05/DSC_0077-1024x681.jpg)](/wp-content/uploads/2014/05/DSC_0077.jpg)
 
-### [![Dad's Meatballs](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/05/DSC_0085-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/05/DSC_0085.jpg)
+### [![Dad's Meatballs](/wp-content/uploads/2014/05/DSC_0085-1024x681.jpg)](/wp-content/uploads/2014/05/DSC_0085.jpg)
 
-### [![Dad's Meatballs](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/05/DSC_0092-681x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/05/DSC_0092.jpg)
+### [![Dad's Meatballs](/wp-content/uploads/2014/05/DSC_0092-681x1024.jpg)](/wp-content/uploads/2014/05/DSC_0092.jpg)
 
 ### Dad’s Meatballs
 

@@ -20,13 +20,13 @@ tags:
 
 A few weeks ago, my Dad was in the bay area for work and came to visit Gabe and I in the Creek! So of course we had to cook a lovely meal for him and feature it here on Cooking in the Creek. This recipe is from my Food &amp; Wine cookbook, which I actually found for free last year in San Francisco, in a box of free books in an apartment lobby. What a steal! This dish is healthy, easy to make, and has bold mediterranean flavors with the kalamata olives, feta and fresh lemon. I served the chicken on a bed of couscous with oven roasted zucchini and yellow squash on the side. To top it all off, we opened up a 15-year-old bottle of wine to enjoy with dinner, from Gabe’s Uncle Kiko. What a wonderful night!
 
-[![Mediterranean Chicken 001](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/05/Mediterranean-Chicken-005-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/05/Mediterranean-Chicken-005.jpg)
+[![Mediterranean Chicken 001](/wp-content/uploads/2014/05/Mediterranean-Chicken-005-1024x681.jpg)](/wp-content/uploads/2014/05/Mediterranean-Chicken-005.jpg)
 
-[![Mediterranean Chicken 002](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/05/Mediterranean-Chicken-006-681x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/05/Mediterranean-Chicken-006.jpg)
+[![Mediterranean Chicken 002](/wp-content/uploads/2014/05/Mediterranean-Chicken-006-681x1024.jpg)](/wp-content/uploads/2014/05/Mediterranean-Chicken-006.jpg)
 
-[![Mediterranean Chicken 004](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/05/Mediterranean-Chicken-008-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/05/Mediterranean-Chicken-008.jpg)
+[![Mediterranean Chicken 004](/wp-content/uploads/2014/05/Mediterranean-Chicken-008-1024x681.jpg)](/wp-content/uploads/2014/05/Mediterranean-Chicken-008.jpg)
 
-[![Mediterranean Chicken 003](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/05/Mediterranean-Chicken-007-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/05/Mediterranean-Chicken-007.jpg)
+[![Mediterranean Chicken 003](/wp-content/uploads/2014/05/Mediterranean-Chicken-007-1024x681.jpg)](/wp-content/uploads/2014/05/Mediterranean-Chicken-007.jpg)
 
 Prep time: 5 minutes
 

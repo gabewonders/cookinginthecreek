@@ -13,19 +13,19 @@ categories:
 
 It Christmas time! And what better way to spend the Saturday before Christmas, but making sweet treats! I found this recipe in one of my cookbooks, and it stood out to me because it’s different than any Christmas cookie I’ve ever made. It’s got all these different nutty flavors with the pistachios, almond extract and chocolate hazelnut spread, so I just had to try it! And man are they delicious!
 
-[![Pistachio Butter Cookies - 1](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Pistachio-Butter-Cookies-1-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Pistachio-Butter-Cookies-1.jpg)
+[![Pistachio Butter Cookies - 1](/wp-content/uploads/2013/12/Pistachio-Butter-Cookies-1-1024x680.jpg)](/wp-content/uploads/2013/12/Pistachio-Butter-Cookies-1.jpg)
 
-[![Pistachio Butter Cookies - 2](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Pistachio-Butter-Cookies-2-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Pistachio-Butter-Cookies-2.jpg)
+[![Pistachio Butter Cookies - 2](/wp-content/uploads/2013/12/Pistachio-Butter-Cookies-2-1024x680.jpg)](/wp-content/uploads/2013/12/Pistachio-Butter-Cookies-2.jpg)
 
-[![Pistachio Butter Cookies - 3](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Pistachio-Butter-Cookies-3-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Pistachio-Butter-Cookies-3.jpg)
+[![Pistachio Butter Cookies - 3](/wp-content/uploads/2013/12/Pistachio-Butter-Cookies-3-1024x680.jpg)](/wp-content/uploads/2013/12/Pistachio-Butter-Cookies-3.jpg)
 
-[![Pistachio Butter Cookies - 4](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Pistachio-Butter-Cookies-4-680x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Pistachio-Butter-Cookies-4.jpg)
+[![Pistachio Butter Cookies - 4](/wp-content/uploads/2013/12/Pistachio-Butter-Cookies-4-680x1024.jpg)](/wp-content/uploads/2013/12/Pistachio-Butter-Cookies-4.jpg)
 
-[![Pistachio Butter Cookies - 5](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Pistachio-Butter-Cookies-5-680x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Pistachio-Butter-Cookies-5.jpg)
+[![Pistachio Butter Cookies - 5](/wp-content/uploads/2013/12/Pistachio-Butter-Cookies-5-680x1024.jpg)](/wp-content/uploads/2013/12/Pistachio-Butter-Cookies-5.jpg)
 
-[![Pistachio Butter Cookies - 6](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Pistachio-Butter-Cookies-6-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Pistachio-Butter-Cookies-6.jpg)
+[![Pistachio Butter Cookies - 6](/wp-content/uploads/2013/12/Pistachio-Butter-Cookies-6-1024x680.jpg)](/wp-content/uploads/2013/12/Pistachio-Butter-Cookies-6.jpg)
 
-[![Pistachio Butter Cookies - 7](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Pistachio-Butter-Cookies-7-680x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Pistachio-Butter-Cookies-7.jpg)
+[![Pistachio Butter Cookies - 7](/wp-content/uploads/2013/12/Pistachio-Butter-Cookies-7-680x1024.jpg)](/wp-content/uploads/2013/12/Pistachio-Butter-Cookies-7.jpg)
 
 Prep time: 35 minutes
 

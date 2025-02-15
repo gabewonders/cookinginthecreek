@@ -21,15 +21,15 @@ tags:
 
 Pizza on mushrooms?! Sounds amazing and healthy too. Not to mention it’s Gluten free. It doesn’t get much easier to prepare, you just layer the sauce, cheese, and toppings on the mushroom and pop it in the oven and voilà, you’ve got a fun and tasty dinner or even lunch. Gabe and I both ate 2 mushrooms each, which was quite filling, surprisingly. I think the serving size may actually be one, but you would need something on the side to make it a full dinner, or you could just have two like us!
 
-[![Portobello Mushroom Pizzas 001](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Portobello-Mushroom-Pizzas-001-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Portobello-Mushroom-Pizzas-001.jpg)
+[![Portobello Mushroom Pizzas 001](/wp-content/uploads/2014/02/Portobello-Mushroom-Pizzas-001-1024x681.jpg)](/wp-content/uploads/2014/02/Portobello-Mushroom-Pizzas-001.jpg)
 
-[![Portobello Mushroom Pizzas 002](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Portobello-Mushroom-Pizzas-002-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Portobello-Mushroom-Pizzas-002.jpg)
+[![Portobello Mushroom Pizzas 002](/wp-content/uploads/2014/02/Portobello-Mushroom-Pizzas-002-1024x681.jpg)](/wp-content/uploads/2014/02/Portobello-Mushroom-Pizzas-002.jpg)
 
-[![Portobello Mushroom Pizzas 003](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Portobello-Mushroom-Pizzas-003-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Portobello-Mushroom-Pizzas-003.jpg)
+[![Portobello Mushroom Pizzas 003](/wp-content/uploads/2014/02/Portobello-Mushroom-Pizzas-003-1024x681.jpg)](/wp-content/uploads/2014/02/Portobello-Mushroom-Pizzas-003.jpg)
 
-[![Portobello Mushroom Pizzas 004](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Portobello-Mushroom-Pizzas-004-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Portobello-Mushroom-Pizzas-004.jpg)
+[![Portobello Mushroom Pizzas 004](/wp-content/uploads/2014/02/Portobello-Mushroom-Pizzas-004-1024x681.jpg)](/wp-content/uploads/2014/02/Portobello-Mushroom-Pizzas-004.jpg)
 
-[![Portobello Mushroom Pizzas 005](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Portobello-Mushroom-Pizzas-005-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Portobello-Mushroom-Pizzas-005.jpg)
+[![Portobello Mushroom Pizzas 005](/wp-content/uploads/2014/02/Portobello-Mushroom-Pizzas-005-1024x681.jpg)](/wp-content/uploads/2014/02/Portobello-Mushroom-Pizzas-005.jpg)
 
 <span style="line-height: 1.5em;">Prep time: 10 minutes</span>
 

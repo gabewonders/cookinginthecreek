@@ -26,13 +26,13 @@ tags:
 This is another one of my favorite breakfast smoothies. There ‘s something about the creamy almond milk, with the peanut butter and frozen bananas, that makes for a wonderful treat in the morning. Enjoy!
 
 
-[![creamy-breakfast-smoothie 010](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/creamy-breakfast-smoothie-010-681x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/creamy-breakfast-smoothie-010.jpg)
+[![creamy-breakfast-smoothie 010](/wp-content/uploads/2014/07/creamy-breakfast-smoothie-010-681x1024.jpg)](/wp-content/uploads/2014/07/creamy-breakfast-smoothie-010.jpg)
 
-[![creamy-breakfast-smoothie 009](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/creamy-breakfast-smoothie-009-681x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/creamy-breakfast-smoothie-009.jpg)
+[![creamy-breakfast-smoothie 009](/wp-content/uploads/2014/07/creamy-breakfast-smoothie-009-681x1024.jpg)](/wp-content/uploads/2014/07/creamy-breakfast-smoothie-009.jpg)
 
-[![creamy-breakfast-smoothie](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/creamy-breakfast-smoothie-008-681x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/creamy-breakfast-smoothie-008.jpg)
+[![creamy-breakfast-smoothie](/wp-content/uploads/2014/07/creamy-breakfast-smoothie-008-681x1024.jpg)](/wp-content/uploads/2014/07/creamy-breakfast-smoothie-008.jpg)
 
-[![creamy-breakfast-smoothie](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/creamy-breakfast-smoothie-007-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/creamy-breakfast-smoothie-007.jpg)
+[![creamy-breakfast-smoothie](/wp-content/uploads/2014/07/creamy-breakfast-smoothie-007-1024x681.jpg)](/wp-content/uploads/2014/07/creamy-breakfast-smoothie-007.jpg)
 
 ### Creamy Breakfast Smoothie
 

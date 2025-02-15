@@ -13,11 +13,11 @@ categories:
 
 The other night when Gabe and I made [Cheesy Polenta with Marinara](http://cookinginthecreek.com/cheesy-polenta-marinara/) we wanted to pair it with a delicious salad. This salad isn’t the healthiest one in the world, but sometimes you’ve got to indulge! And what better way to indulge yourself but with some creamy homemade blue cheese dressing drizzled on top a crisp wedge of iceberg with all the fixings! We still have leftover dressing, its delicious on any salad! Gabe didn’t even think he liked blue cheese until we made this, and then there he was licking his plate.
 
-[![Blue Cheese Wedge Salad - 1](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Last-Viewed-Events-15-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Last-Viewed-Events-15.jpg)
+[![Blue Cheese Wedge Salad - 1](/wp-content/uploads/2013/12/Last-Viewed-Events-15-1024x680.jpg)](/wp-content/uploads/2013/12/Last-Viewed-Events-15.jpg)
 
-[![Blue Cheese Wedge Salad - 2](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Last-Viewed-Events-16-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Last-Viewed-Events-16.jpg)
+[![Blue Cheese Wedge Salad - 2](/wp-content/uploads/2013/12/Last-Viewed-Events-16-1024x680.jpg)](/wp-content/uploads/2013/12/Last-Viewed-Events-16.jpg)
 
-[![Blue Cheese Wedge Salad - 3](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Last-Viewed-Events-17-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Last-Viewed-Events-17.jpg)
+[![Blue Cheese Wedge Salad - 3](/wp-content/uploads/2013/12/Last-Viewed-Events-17-1024x680.jpg)](/wp-content/uploads/2013/12/Last-Viewed-Events-17.jpg)
 
 Prep time: 10 minutes
 

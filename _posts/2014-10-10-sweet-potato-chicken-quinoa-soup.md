@@ -25,9 +25,9 @@ tags:
 
 Cooking in the Creek has definitely been suffering lately as I just recently had knee surgery and have been focusing on my road to recovery. Gabe has been doing a great job of taking care of me, along with my family too. I don’t know where I’d be without their help. One of the hardest things I’ve realized about recovery has been having patience, and just reminding myself to take it day by day. With that in mind and trying to keep alive certain parts of my life, like Cooking in the Creek, I decided a slow cooker meal would be easy enough and definitely appropriate for fall! It’s also the first slow cooker meal on the blog! Gabe prepped all the ingredients the night before, and all I had to do was pour it all into the slow cooker the next morning. It’s truly a one-step slow cooker meal, no pre-cooking required. It’s a wonderful thing to come home to after a long day, and smells lovely! Happy Fall!
 
-[![sweet-potato-chicken-quinoa-soup](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/10/sweet-potato-chicken-quinoa-soup-1-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/10/sweet-potato-chicken-quinoa-soup-1.jpg)
+[![sweet-potato-chicken-quinoa-soup](/wp-content/uploads/2014/10/sweet-potato-chicken-quinoa-soup-1-1024x681.jpg)](/wp-content/uploads/2014/10/sweet-potato-chicken-quinoa-soup-1.jpg)
 
-[![sweet-potato-chicken-quinoa-soup](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/10/sweet-potato-chicken-quinoa-soup-2-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/10/sweet-potato-chicken-quinoa-soup-2.jpg)
+[![sweet-potato-chicken-quinoa-soup](/wp-content/uploads/2014/10/sweet-potato-chicken-quinoa-soup-2-1024x681.jpg)](/wp-content/uploads/2014/10/sweet-potato-chicken-quinoa-soup-2.jpg)
 
 ### Slow Cooker Sweet Potato Chicken Quinoa Soup
 

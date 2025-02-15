@@ -23,11 +23,11 @@ tags:
 
 It’s your lucky day because we have two new recipes from Cooking in the Creek! Gabe and I have another wonderful recipe we wanted to share with you all. It’s named “The Best Banana Bread Ever!” My coworker brought in a loaf of this bread to the office a couple months ago and I’ve been wanting to try it out myself for awhile now, because it is definitely one of the best banana bread recipes I have ever tried. It has a crispy sugary crust and who can resist that! Give it a try the next time you have some ripe bananas laying around. You won’t be sorry 🙂
 
-[![Best Banana Bread Ever! | cookinginthecreek.com](http://cookinginthecreek.com/wordpress/wp-content/uploads/2015/07/bananabread4.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2015/07/bananabread4.jpg)
+[![Best Banana Bread Ever! | cookinginthecreek.com](/wp-content/uploads/2015/07/bananabread4.jpg)](/wp-content/uploads/2015/07/bananabread4.jpg)
 
-[![Best Banana Bread Ever! | cookinginthecreek.com](http://cookinginthecreek.com/wordpress/wp-content/uploads/2015/07/bananabread2.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2015/07/bananabread2.jpg)
+[![Best Banana Bread Ever! | cookinginthecreek.com](/wp-content/uploads/2015/07/bananabread2.jpg)](/wp-content/uploads/2015/07/bananabread2.jpg)
 
-[![Best Banana Bread Ever! | cookinginthecreek.com](http://cookinginthecreek.com/wordpress/wp-content/uploads/2015/07/bananabread3.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2015/07/bananabread3.jpg)
+[![Best Banana Bread Ever! | cookinginthecreek.com](/wp-content/uploads/2015/07/bananabread3.jpg)](/wp-content/uploads/2015/07/bananabread3.jpg)
 
 ### The Best Banana Bread Ever!
 

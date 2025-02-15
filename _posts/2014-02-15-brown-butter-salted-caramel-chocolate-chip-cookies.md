@@ -13,23 +13,23 @@ categories:
 
 Are you ready for the most delicious and addicting cookie recipe ever? Well here it is! These cookies combine all the wonderful flavors that a mouthwatering cookie should have. I made these cookies for the second time a couple weeks ago for my parents annual Super bowl party. And may I say, they were a hit! Sadly I didn’t have any leftover to take home, so I’ll just have to make them again soon. I’ve discovered lately that brown butter adds a magnificent nutty flavor to cookies, and with the added caramel and sea salt to a classic cookie like the chocolate chip, it’s a recipe that will please any cookie lovers taste buds!
 
-[![Brown Butter Salted Carmel Cookies 001](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Brown-Butter-Salted-Carmel-Cookies-001-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Brown-Butter-Salted-Carmel-Cookies-001.jpg)
+[![Brown Butter Salted Carmel Cookies 001](/wp-content/uploads/2014/02/Brown-Butter-Salted-Carmel-Cookies-001-1024x680.jpg)](/wp-content/uploads/2014/02/Brown-Butter-Salted-Carmel-Cookies-001.jpg)
 
-[![Brown Butter Salted Carmel Cookies 002](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Brown-Butter-Salted-Carmel-Cookies-002-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Brown-Butter-Salted-Carmel-Cookies-002.jpg)
+[![Brown Butter Salted Carmel Cookies 002](/wp-content/uploads/2014/02/Brown-Butter-Salted-Carmel-Cookies-002-1024x680.jpg)](/wp-content/uploads/2014/02/Brown-Butter-Salted-Carmel-Cookies-002.jpg)
 
-[![Brown Butter Salted Carmel Cookies 003](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Brown-Butter-Salted-Carmel-Cookies-003-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Brown-Butter-Salted-Carmel-Cookies-003.jpg)
+[![Brown Butter Salted Carmel Cookies 003](/wp-content/uploads/2014/02/Brown-Butter-Salted-Carmel-Cookies-003-1024x680.jpg)](/wp-content/uploads/2014/02/Brown-Butter-Salted-Carmel-Cookies-003.jpg)
 
-[![Brown Butter Salted Carmel Cookies 004](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Brown-Butter-Salted-Carmel-Cookies-004-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Brown-Butter-Salted-Carmel-Cookies-004.jpg)
+[![Brown Butter Salted Carmel Cookies 004](/wp-content/uploads/2014/02/Brown-Butter-Salted-Carmel-Cookies-004-1024x680.jpg)](/wp-content/uploads/2014/02/Brown-Butter-Salted-Carmel-Cookies-004.jpg)
 
-[![Brown Butter Salted Carmel Cookies 005](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Brown-Butter-Salted-Carmel-Cookies-005-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Brown-Butter-Salted-Carmel-Cookies-005.jpg)
+[![Brown Butter Salted Carmel Cookies 005](/wp-content/uploads/2014/02/Brown-Butter-Salted-Carmel-Cookies-005-1024x680.jpg)](/wp-content/uploads/2014/02/Brown-Butter-Salted-Carmel-Cookies-005.jpg)
 
-[![Brown Butter Salted Carmel Cookies 006](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Brown-Butter-Salted-Carmel-Cookies-006-1024x682.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Brown-Butter-Salted-Carmel-Cookies-006.jpg)
+[![Brown Butter Salted Carmel Cookies 006](/wp-content/uploads/2014/02/Brown-Butter-Salted-Carmel-Cookies-006-1024x682.jpg)](/wp-content/uploads/2014/02/Brown-Butter-Salted-Carmel-Cookies-006.jpg)
 
-[![Brown Butter Salted Carmel Cookies 007](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Brown-Butter-Salted-Carmel-Cookies-007-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Brown-Butter-Salted-Carmel-Cookies-007.jpg)
+[![Brown Butter Salted Carmel Cookies 007](/wp-content/uploads/2014/02/Brown-Butter-Salted-Carmel-Cookies-007-1024x680.jpg)](/wp-content/uploads/2014/02/Brown-Butter-Salted-Carmel-Cookies-007.jpg)
 
-[![Brown Butter Salted Carmel Cookies 008](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Brown-Butter-Salted-Carmel-Cookies-008-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Brown-Butter-Salted-Carmel-Cookies-008.jpg)
+[![Brown Butter Salted Carmel Cookies 008](/wp-content/uploads/2014/02/Brown-Butter-Salted-Carmel-Cookies-008-1024x680.jpg)](/wp-content/uploads/2014/02/Brown-Butter-Salted-Carmel-Cookies-008.jpg)
 
-[![Brown Butter Salted Carmel Cookies 009](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Brown-Butter-Salted-Carmel-Cookies-009-1024x682.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Brown-Butter-Salted-Carmel-Cookies-009.jpg)
+[![Brown Butter Salted Carmel Cookies 009](/wp-content/uploads/2014/02/Brown-Butter-Salted-Carmel-Cookies-009-1024x682.jpg)](/wp-content/uploads/2014/02/Brown-Butter-Salted-Carmel-Cookies-009.jpg)
 
 Prep time: 30 minutes
 

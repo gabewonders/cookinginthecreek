@@ -24,11 +24,11 @@ tags:
 <span style="color: #000000;">I made this dish last year, pre-Cooking in the Creek, so I decided I had to make it again to share with all of you! This is a great salad for dinner on a hot summer night. Everyone loves a good quinoa salad these days, and this one is great because it has so much flavor and crunch going on with the peanut ginger dressing and fresh veggies. It’s a great meal any day of the week, especially after a hot summer day when you don’t want to heat up the entire house by cooking a big meal in the kitchen. We had enough left over for lunch too!</span>
 
 
-[![Thai Peanut Quinoa Salad](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/thai-peanut-quinoa-salad-001-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/thai-peanut-quinoa-salad-001.jpg)
+[![Thai Peanut Quinoa Salad](/wp-content/uploads/2014/07/thai-peanut-quinoa-salad-001-1024x681.jpg)](/wp-content/uploads/2014/07/thai-peanut-quinoa-salad-001.jpg)
 
-[![Thai Peanut Quinoa Salad](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/thai-peanut-quinoa-salad-002-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/thai-peanut-quinoa-salad-002.jpg)
+[![Thai Peanut Quinoa Salad](/wp-content/uploads/2014/07/thai-peanut-quinoa-salad-002-1024x681.jpg)](/wp-content/uploads/2014/07/thai-peanut-quinoa-salad-002.jpg)
 
-[![Thai Peanut Quinoa Salad](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/thai-peanut-quinoa-salad-003-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/thai-peanut-quinoa-salad-003.jpg)
+[![Thai Peanut Quinoa Salad](/wp-content/uploads/2014/07/thai-peanut-quinoa-salad-003-1024x681.jpg)](/wp-content/uploads/2014/07/thai-peanut-quinoa-salad-003.jpg)
 
 ### <span style="color: #000000;">Thai Peanut Quinoa Salad</span>
 

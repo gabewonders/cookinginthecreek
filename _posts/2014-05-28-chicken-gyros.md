@@ -20,13 +20,13 @@ tags:
 
 I’ve always loved a good gyro, but somehow I had yet to ever make them at home. Gabe picked out this recipe the other day, because he had a craving for Greek food. The chicken marinade was so tasty, that you could even just have the chicken by itself. But with all the delicious toppings, it makes them irresistible. We even got the tomatoes, cucumber and red onion fresh from the local farmer’s market that day. It was delicious!
 
-[![Red Onions](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/05/Chicken-Gyros-001-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/05/Chicken-Gyros-001.jpg)
+[![Red Onions](/wp-content/uploads/2014/05/Chicken-Gyros-001-1024x681.jpg)](/wp-content/uploads/2014/05/Chicken-Gyros-001.jpg)
 
-[![Chicken Gyro](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/05/Chicken-Gyros-002-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/05/Chicken-Gyros-002.jpg)
+[![Chicken Gyro](/wp-content/uploads/2014/05/Chicken-Gyros-002-1024x681.jpg)](/wp-content/uploads/2014/05/Chicken-Gyros-002.jpg)
 
-[![Chicken Gyro](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/05/Chicken-Gyros-003-681x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/05/Chicken-Gyros-003.jpg)
+[![Chicken Gyro](/wp-content/uploads/2014/05/Chicken-Gyros-003-681x1024.jpg)](/wp-content/uploads/2014/05/Chicken-Gyros-003.jpg)
 
-[![Chicken Gyro](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/05/Chicken-Gyros-004-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/05/Chicken-Gyros-004.jpg)
+[![Chicken Gyro](/wp-content/uploads/2014/05/Chicken-Gyros-004-1024x681.jpg)](/wp-content/uploads/2014/05/Chicken-Gyros-004.jpg)
 
 ### Chicken Gyros
 

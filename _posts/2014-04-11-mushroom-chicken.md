@@ -15,11 +15,11 @@ tags:
 
 As you can probably tell, the blog has been suffering a bit lately. Maybe it’s something about spring time, and just wanting to spend time outdoors instead of cooped up in the kitchen, or maybe it’s just a busier time of year. Whatever it may be, we just haven’t been cooking many new recipes recently. But here is a mushroom chicken recipe we managed to cook up on a weeknight, that is super easy and has lots of fresh flavors! I also learned a fun fact, that Crimini mushrooms are baby portobello mushrooms, who knew?! The original recipe called for dry white wine, but I used Marsala wine since I already had it on hand and I thought it worked great. You can also feel good eating this dish because it’s made without any cream or butter, but isn’t lacking flavor with the fresh lemon, herbs and wine. Enjoy!
 
-[![Mushroom Chicken](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/04/Mushroom-Chicken-005-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/04/Mushroom-Chicken-005.jpg)
+[![Mushroom Chicken](/wp-content/uploads/2014/04/Mushroom-Chicken-005-1024x681.jpg)](/wp-content/uploads/2014/04/Mushroom-Chicken-005.jpg)
 
-[![Mushroom Chicken](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/04/Mushroom-Chicken-006-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/04/Mushroom-Chicken-006.jpg)
+[![Mushroom Chicken](/wp-content/uploads/2014/04/Mushroom-Chicken-006-1024x681.jpg)](/wp-content/uploads/2014/04/Mushroom-Chicken-006.jpg)
 
-[![Mushroom Chicken](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/04/Mushroom-Chicken-007-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/04/Mushroom-Chicken-007.jpg)
+[![Mushroom Chicken](/wp-content/uploads/2014/04/Mushroom-Chicken-007-1024x681.jpg)](/wp-content/uploads/2014/04/Mushroom-Chicken-007.jpg)
 
 Prep time: 5 minutes
 

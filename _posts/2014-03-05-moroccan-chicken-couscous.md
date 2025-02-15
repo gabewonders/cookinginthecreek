@@ -16,13 +16,13 @@ tags:
 
 The other day, I was up in Sacramento for work and I got to stay at my sister and her fiancé’s house for the night. They surprised me with an amazingly delicious home cooked meal! It was so good, so unique, I decided I had to have it again 4 days later, so that Gabe could try it, and I could share with you all on the blog! Now, it does have a lot of ingredients, and does require quite a few steps to prepare. I suggest having someone help with all the prep work, since there’s so many ingredients to get together. I emphasize this because the original blogger, named below, called this a one pot meal, and said it only takes 30 minutes to prepare and cook. Talk about false advertising! However, this dish is worth the extra time and effort. There’s so many different flavors and textures going on, and they all taste so lovely together!
 
-[![Spices used for Moroccan Chicken](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/03/Moroccan-Chicken-with-Couscous-001-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/03/Moroccan-Chicken-with-Couscous-001.jpg)
+[![Spices used for Moroccan Chicken](/wp-content/uploads/2014/03/Moroccan-Chicken-with-Couscous-001-1024x681.jpg)](/wp-content/uploads/2014/03/Moroccan-Chicken-with-Couscous-001.jpg)
 
-[![Moroccan Chicken with Couscous](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/03/Moroccan-Chicken-with-Couscous-002-1024x682.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/03/Moroccan-Chicken-with-Couscous-002.jpg)
+[![Moroccan Chicken with Couscous](/wp-content/uploads/2014/03/Moroccan-Chicken-with-Couscous-002-1024x682.jpg)](/wp-content/uploads/2014/03/Moroccan-Chicken-with-Couscous-002.jpg)
 
-[![Moroccan Chicken with Couscous](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/03/Moroccan-Chicken-with-Couscous-003-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/03/Moroccan-Chicken-with-Couscous-003.jpg)
+[![Moroccan Chicken with Couscous](/wp-content/uploads/2014/03/Moroccan-Chicken-with-Couscous-003-1024x681.jpg)](/wp-content/uploads/2014/03/Moroccan-Chicken-with-Couscous-003.jpg)
 
-[![Moroccan Chicken with Couscous](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/03/Moroccan-Chicken-with-Couscous-004-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/03/Moroccan-Chicken-with-Couscous-004.jpg)
+[![Moroccan Chicken with Couscous](/wp-content/uploads/2014/03/Moroccan-Chicken-with-Couscous-004-1024x681.jpg)](/wp-content/uploads/2014/03/Moroccan-Chicken-with-Couscous-004.jpg)
 
 Prep time: 30 minutes
 

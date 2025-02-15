@@ -24,13 +24,13 @@ tags:
 When I found this recipe, it really stood out to me because it’s different from most recipes I typically cook. It’s full of different spices that make a flavorful middle eastern marinade for the chicken. The salad is full of fresh veggies and fresh lemon that keep it light and simple, which make it the perfect complement to the chicken. Feel free to eat just the chicken and salad for a nice light dinner, or beef it up with rice and veggies alongside, or even warm whole wheat pita bread and fresh hummus. Enjoy!
 
 
-[![chicken-shawarma](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/08/chicken-shawarma-1-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/08/chicken-shawarma-1.jpg)
+[![chicken-shawarma](/wp-content/uploads/2014/08/chicken-shawarma-1-1024x681.jpg)](/wp-content/uploads/2014/08/chicken-shawarma-1.jpg)
 
-[![chicken-shawarma](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/08/chicken-shawarma-2-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/08/chicken-shawarma-2.jpg)
+[![chicken-shawarma](/wp-content/uploads/2014/08/chicken-shawarma-2-1024x681.jpg)](/wp-content/uploads/2014/08/chicken-shawarma-2.jpg)
 
-[![chicken-shawarma](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/08/chicken-shawarma-3-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/08/chicken-shawarma-3.jpg)
+[![chicken-shawarma](/wp-content/uploads/2014/08/chicken-shawarma-3-1024x681.jpg)](/wp-content/uploads/2014/08/chicken-shawarma-3.jpg)
 
-[![chicken-shawarma](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/08/chicken-shawarma-4-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/08/chicken-shawarma-4.jpg)
+[![chicken-shawarma](/wp-content/uploads/2014/08/chicken-shawarma-4-1024x681.jpg)](/wp-content/uploads/2014/08/chicken-shawarma-4.jpg)
 
 ### Chicken Shawarma with Israeli Salad
 

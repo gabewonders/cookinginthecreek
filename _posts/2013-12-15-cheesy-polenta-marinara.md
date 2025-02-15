@@ -15,22 +15,22 @@ Gabe and I picked this recipe today because we were looking for something delici
 
 *Me on my Nonna’s lap*
 
-[![Nonna and Meggy](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Scan-15-e1387166692620.jpeg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Scan-15-e1387166692620.jpeg)  
-[![Cheesy Polenta with Marinara - 1](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Cheesy-Polenta-with-Marinara-1-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Cheesy-Polenta-with-Marinara-1.jpg)
+[![Nonna and Meggy](/wp-content/uploads/2013/12/Scan-15-e1387166692620.jpeg)](/wp-content/uploads/2013/12/Scan-15-e1387166692620.jpeg)  
+[![Cheesy Polenta with Marinara - 1](/wp-content/uploads/2013/12/Cheesy-Polenta-with-Marinara-1-1024x680.jpg)](/wp-content/uploads/2013/12/Cheesy-Polenta-with-Marinara-1.jpg)
 
-![Cheesy Polenta with Marinara - 5](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Cheesy-Polenta-with-Marinara-5-1024x680.jpg)
+![Cheesy Polenta with Marinara - 5](/wp-content/uploads/2013/12/Cheesy-Polenta-with-Marinara-5-1024x680.jpg)
 
-[![Cheesy Polenta with Marinara - 2](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Cheesy-Polenta-with-Marinara-2-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Cheesy-Polenta-with-Marinara-2.jpg)
+[![Cheesy Polenta with Marinara - 2](/wp-content/uploads/2013/12/Cheesy-Polenta-with-Marinara-2-1024x680.jpg)](/wp-content/uploads/2013/12/Cheesy-Polenta-with-Marinara-2.jpg)
 
-[![Cheesy Polenta with Marinara - 3](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Cheesy-Polenta-with-Marinara-3-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Cheesy-Polenta-with-Marinara-3.jpg)
+[![Cheesy Polenta with Marinara - 3](/wp-content/uploads/2013/12/Cheesy-Polenta-with-Marinara-3-1024x680.jpg)](/wp-content/uploads/2013/12/Cheesy-Polenta-with-Marinara-3.jpg)
 
-[![Cheesy Polenta with Marinara - 4](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Cheesy-Polenta-with-Marinara-4-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Cheesy-Polenta-with-Marinara-4.jpg)
+[![Cheesy Polenta with Marinara - 4](/wp-content/uploads/2013/12/Cheesy-Polenta-with-Marinara-4-1024x680.jpg)](/wp-content/uploads/2013/12/Cheesy-Polenta-with-Marinara-4.jpg)
 
-[![Cheesy Polenta with Marinara - 6](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Cheesy-Polenta-with-Marinara-6-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Cheesy-Polenta-with-Marinara-6.jpg)
+[![Cheesy Polenta with Marinara - 6](/wp-content/uploads/2013/12/Cheesy-Polenta-with-Marinara-6-1024x680.jpg)](/wp-content/uploads/2013/12/Cheesy-Polenta-with-Marinara-6.jpg)
 
-[![Cheesy Polenta with Marinara - 7](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Cheesy-Polenta-with-Marinara-7-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Cheesy-Polenta-with-Marinara-7.jpg)
+[![Cheesy Polenta with Marinara - 7](/wp-content/uploads/2013/12/Cheesy-Polenta-with-Marinara-7-1024x680.jpg)](/wp-content/uploads/2013/12/Cheesy-Polenta-with-Marinara-7.jpg)
 
-[![Cheesy Polenta with Marinara - 8](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Cheesy-Polenta-with-Marinara-8-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Cheesy-Polenta-with-Marinara-8.jpg)
+[![Cheesy Polenta with Marinara - 8](/wp-content/uploads/2013/12/Cheesy-Polenta-with-Marinara-8-1024x680.jpg)](/wp-content/uploads/2013/12/Cheesy-Polenta-with-Marinara-8.jpg)
 
 Prep time: 10 minutes
 

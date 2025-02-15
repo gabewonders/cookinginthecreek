@@ -20,9 +20,9 @@ tags:
 
 <div>This recipe has a fun twist on the typical stuffed bell pepper. It has the flavors of an enchilada with all different textures being stuffed into the pepper, with the shredded chicken, white beans, and sautéed veggies, topped with the avocado crema. It’s delicious!
 
-[![enchilada-stuffed-peppers2](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/05/enchilada-stuffed-peppers2-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/05/enchilada-stuffed-peppers2.jpg)
+[![enchilada-stuffed-peppers2](/wp-content/uploads/2014/05/enchilada-stuffed-peppers2-1024x681.jpg)](/wp-content/uploads/2014/05/enchilada-stuffed-peppers2.jpg)
 
-[![enchilada-stuffed-peppers1](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/05/enchilada-stuffed-peppers1-1024x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/05/enchilada-stuffed-peppers1.jpg)
+[![enchilada-stuffed-peppers1](/wp-content/uploads/2014/05/enchilada-stuffed-peppers1-1024x1024.jpg)](/wp-content/uploads/2014/05/enchilada-stuffed-peppers1.jpg)
 
 Prep time: 10 minutes
 

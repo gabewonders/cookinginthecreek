@@ -25,9 +25,9 @@ Sadly, Cooking in the Creek has been neglected for the last month or so. With th
 
 I always see recipes with spaghetti squash sautéed with fresh herbs and it seems so simple, light and fresh. I wanted to try that for dinner, but wanted to add a few ingredients to make it filling enough for a meal. Gabe and I went to the farmer’s market over the weekend and got a bunch of fresh fruits and veggies for the week. We got some fresh herbs (a mixed bunch of rosemary, sage and thyme), rainbow swiss chard and an assortment of other things. These were the perfect addition to the squash, giving it lots of fresh flavor and color. I added the chickpeas for a little added protein, lemon, sun-dried tomatoes and parmesan for a pop of flavor. To my surprise, it all came together very nicely. If you are looking for a lighter faire, full of fresh flavors try this dish!
 
-[![Roasted spaghetti squash sautéed with rainbow swiss chard, chickpeas, sun dried tomatoes and topped with parmesan cheese. | cookinginthecreek.com](http://cookinginthecreek.com/wordpress/wp-content/uploads/2015/01/Spaghetti-Squash-with-Chickpeas-and-Chard-2.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2015/01/Spaghetti-Squash-with-Chickpeas-and-Chard-2.jpg)
+[![Roasted spaghetti squash sautéed with rainbow swiss chard, chickpeas, sun dried tomatoes and topped with parmesan cheese. | cookinginthecreek.com](/wp-content/uploads/2015/01/Spaghetti-Squash-with-Chickpeas-and-Chard-2.jpg)](/wp-content/uploads/2015/01/Spaghetti-Squash-with-Chickpeas-and-Chard-2.jpg)
 
-[![Roasted spaghetti squash sautéed with rainbow swiss chard, chickpeas, sun dried tomatoes and topped with parmesan cheese. | cookinginthecreek.com](http://cookinginthecreek.com/wordpress/wp-content/uploads/2015/01/Spaghetti-Squash-with-Chickpeas-and-Chard-3.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2015/01/Spaghetti-Squash-with-Chickpeas-and-Chard-3.jpg)
+[![Roasted spaghetti squash sautéed with rainbow swiss chard, chickpeas, sun dried tomatoes and topped with parmesan cheese. | cookinginthecreek.com](/wp-content/uploads/2015/01/Spaghetti-Squash-with-Chickpeas-and-Chard-3.jpg)](/wp-content/uploads/2015/01/Spaghetti-Squash-with-Chickpeas-and-Chard-3.jpg)
 
 ### Spaghetti Squash with Chickpeas &amp; Chard
 

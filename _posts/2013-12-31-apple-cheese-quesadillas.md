@@ -15,11 +15,11 @@ tags:
 
 This recipe is a great way to put a healthier, more flavorful spin on cheese quesadillas! The original recipe actually only called for cheddar cheese, but we had some smoked fontina cheese leftover from another recipe and I thought it would go well. The added flavor from the hickory smoked fontina with the cheddar complements the tart granny smith apples beautifully! It’s heaven. Also, it’s better to cook the quesadillas on medium heat, a little slower, so that the apples have a little time to cook and release their juices. This meal is perfect for lunch or dinner! Enjoy!
 
-[![Apple and Cheese Quesadillas](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Apple-and-Cheese-Quesadillas-1-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Apple-and-Cheese-Quesadillas-1.jpg)
+[![Apple and Cheese Quesadillas](/wp-content/uploads/2013/12/Apple-and-Cheese-Quesadillas-1-1024x680.jpg)](/wp-content/uploads/2013/12/Apple-and-Cheese-Quesadillas-1.jpg)
 
-[![Apple and Cheese Quesadillas](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Apple-and-Cheese-Quesadillas-2-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Apple-and-Cheese-Quesadillas-2.jpg)
+[![Apple and Cheese Quesadillas](/wp-content/uploads/2013/12/Apple-and-Cheese-Quesadillas-2-1024x680.jpg)](/wp-content/uploads/2013/12/Apple-and-Cheese-Quesadillas-2.jpg)
 
-[![Apple and Cheese Quesadillas](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Apple-and-Cheese-Quesadillas-3-1024x624.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Apple-and-Cheese-Quesadillas-3.jpg)
+[![Apple and Cheese Quesadillas](/wp-content/uploads/2013/12/Apple-and-Cheese-Quesadillas-3-1024x624.jpg)](/wp-content/uploads/2013/12/Apple-and-Cheese-Quesadillas-3.jpg)
 
 Prep time: 5 minutes
 

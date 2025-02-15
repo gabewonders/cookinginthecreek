@@ -17,11 +17,11 @@ tags:
 
 These are probably the most delicious banana muffins I’ve ever made. And possibly ever had. I like to think they’re relatively healthy since they’re made with whole wheat flour and oat bran. You’re getting your whole grains, fiber, plus potassium from the bananas. I love the mixture of the different sugars, coconut, brown, and granulated. And just a touch of coconut sugar sprinkled on top gives the muffin top a nice sweet taste with a slight crisp. Everyone knows the muffin top is the best part! These are great for breakfast, or any time of day for a snack. Hope you enjoy them as much as we did!
 
-[![Banana Muffins 006](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Banana-Muffins-006-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Banana-Muffins-006.jpg)
+[![Banana Muffins 006](/wp-content/uploads/2014/02/Banana-Muffins-006-1024x681.jpg)](/wp-content/uploads/2014/02/Banana-Muffins-006.jpg)
 
-[![Banana Muffins 007](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Banana-Muffins-007-1024x682.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Banana-Muffins-007.jpg)
+[![Banana Muffins 007](/wp-content/uploads/2014/02/Banana-Muffins-007-1024x682.jpg)](/wp-content/uploads/2014/02/Banana-Muffins-007.jpg)
 
-[![Banana Muffins 008](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Banana-Muffins-008-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Banana-Muffins-008.jpg)
+[![Banana Muffins 008](/wp-content/uploads/2014/02/Banana-Muffins-008-1024x681.jpg)](/wp-content/uploads/2014/02/Banana-Muffins-008.jpg)
 
 Prep time: 10 minutes
 

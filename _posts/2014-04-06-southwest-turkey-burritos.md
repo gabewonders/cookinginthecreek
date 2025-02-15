@@ -16,13 +16,13 @@ tags:
 
 Lately, it seems like every week has been busy and I just haven’t had much time to cook, so I’ve been going for any easy meal I can find. When Gabe and I were at Trader Joe’s the other week, they were sampling this ground turkey taco mixture topped with sour cream and cheese served with blue corn tortillas chips. The recipe only consisted of a few simple ingredients so I thought it’d be a perfectly easy weeknight meal!
 
-[![Southwest Turkey Burritos](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/04/Southwest-Turkey-Burritos-001-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/04/Southwest-Turkey-Burritos-001.jpg)
+[![Southwest Turkey Burritos](/wp-content/uploads/2014/04/Southwest-Turkey-Burritos-001-1024x681.jpg)](/wp-content/uploads/2014/04/Southwest-Turkey-Burritos-001.jpg)
 
-[![Southwest Turkey Burritos](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/04/Southwest-Turkey-Burritos-002-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/04/Southwest-Turkey-Burritos-002.jpg)
+[![Southwest Turkey Burritos](/wp-content/uploads/2014/04/Southwest-Turkey-Burritos-002-1024x681.jpg)](/wp-content/uploads/2014/04/Southwest-Turkey-Burritos-002.jpg)
 
-[![Southwest Turkey Burritos](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/04/Southwest-Turkey-Burritos-003-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/04/Southwest-Turkey-Burritos-003.jpg)
+[![Southwest Turkey Burritos](/wp-content/uploads/2014/04/Southwest-Turkey-Burritos-003-1024x681.jpg)](/wp-content/uploads/2014/04/Southwest-Turkey-Burritos-003.jpg)
 
-[![Southwest Turkey Burritos](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/04/Southwest-Turkey-Burritos-004-1024x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/04/Southwest-Turkey-Burritos-004.jpg)
+[![Southwest Turkey Burritos](/wp-content/uploads/2014/04/Southwest-Turkey-Burritos-004-1024x1024.jpg)](/wp-content/uploads/2014/04/Southwest-Turkey-Burritos-004.jpg)
 
 Prep time: 5 min
 

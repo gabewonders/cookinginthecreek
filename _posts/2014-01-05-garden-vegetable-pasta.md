@@ -15,15 +15,15 @@ tags:
 
 I’m always looking for a good excuse to use our cast iron, and Megan found just the right recipe. This dish is extremely easy to cook and made for a colorful, warm, tasty dinner. When first reading this recipe I was a little worried that it would taste bland, but the variety of vegetables, browned butter and melted provolone cheese give the pasta great flavor!
 
-[![Onion and Zucchini ](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/01/Garden-Vegetable-Pasta-1-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/01/Garden-Vegetable-Pasta-1.jpg)
+[![Onion and Zucchini ](/wp-content/uploads/2014/01/Garden-Vegetable-Pasta-1-1024x680.jpg)](/wp-content/uploads/2014/01/Garden-Vegetable-Pasta-1.jpg)
 
-[![Garden Vegetable Pasta - 2](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/01/Garden-Vegetable-Pasta-2-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/01/Garden-Vegetable-Pasta-2.jpg)
+[![Garden Vegetable Pasta - 2](/wp-content/uploads/2014/01/Garden-Vegetable-Pasta-2-1024x680.jpg)](/wp-content/uploads/2014/01/Garden-Vegetable-Pasta-2.jpg)
 
-[![Garden Vegetable Pasta - 3](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/01/Garden-Vegetable-Pasta-3-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/01/Garden-Vegetable-Pasta-3.jpg)
+[![Garden Vegetable Pasta - 3](/wp-content/uploads/2014/01/Garden-Vegetable-Pasta-3-1024x680.jpg)](/wp-content/uploads/2014/01/Garden-Vegetable-Pasta-3.jpg)
 
-[![Garden Vegetable Pasta - 4](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/01/Garden-Vegetable-Pasta-4-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/01/Garden-Vegetable-Pasta-4.jpg)
+[![Garden Vegetable Pasta - 4](/wp-content/uploads/2014/01/Garden-Vegetable-Pasta-4-1024x680.jpg)](/wp-content/uploads/2014/01/Garden-Vegetable-Pasta-4.jpg)
 
-[![Garden Vegetable Pasta - 5](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/01/Garden-Vegetable-Pasta-5-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/01/Garden-Vegetable-Pasta-5.jpg)
+[![Garden Vegetable Pasta - 5](/wp-content/uploads/2014/01/Garden-Vegetable-Pasta-5-1024x680.jpg)](/wp-content/uploads/2014/01/Garden-Vegetable-Pasta-5.jpg)
 
 Prep time: 10 minutes
 

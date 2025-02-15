@@ -26,13 +26,13 @@ tags:
 
 On Saturday night, Gabe and I went to see the movie [Chef](http://www.rottentomatoes.com/m/chef_2014/) at the theatre. It was a great movie. Great looking food, great music, great story! If you’re going to see it don’t go to the theatre hungry. We had dinner beforehand and our mouths were still watering. It inspired me to make something absolutely delicious on Sunday for Brunch. I found this recipe for Huevos Rancheros with Roasted Sweet Potatoes and thought it was perfect! I already had a lot of the ingredients on hand from the [Fish Tacos with Slaw &amp; Lime Crema](http://cookinginthecreek.com/fish-tacos-slaw-lime-crema/) that I had made earlier in the week. The recipe amount could be stretched to feed four people, or two people for a very filling Brunch. I must say, the dish was absolutely amazing. Gabe said it was quite possibly the best thing I’ve ever cooked!
 
-[![huevos-rancheros 004](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/huevos-rancheros-004-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/huevos-rancheros-004.jpg)
+[![huevos-rancheros 004](/wp-content/uploads/2014/07/huevos-rancheros-004-1024x681.jpg)](/wp-content/uploads/2014/07/huevos-rancheros-004.jpg)
 
-[![huevos-rancheros 003](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/huevos-rancheros-003-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/huevos-rancheros-003.jpg)
+[![huevos-rancheros 003](/wp-content/uploads/2014/07/huevos-rancheros-003-1024x681.jpg)](/wp-content/uploads/2014/07/huevos-rancheros-003.jpg)
 
-[![huevos-rancheros 002](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/huevos-rancheros-002-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/huevos-rancheros-002.jpg)
+[![huevos-rancheros 002](/wp-content/uploads/2014/07/huevos-rancheros-002-1024x681.jpg)](/wp-content/uploads/2014/07/huevos-rancheros-002.jpg)
 
-[![huevos-rancheros](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/huevos-rancheros-001-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/huevos-rancheros-001.jpg)
+[![huevos-rancheros](/wp-content/uploads/2014/07/huevos-rancheros-001-1024x681.jpg)](/wp-content/uploads/2014/07/huevos-rancheros-001.jpg)
 
 ### Huevos Rancheros
 

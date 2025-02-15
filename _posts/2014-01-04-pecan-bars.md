@@ -16,23 +16,23 @@ tags:
 
 [Pecan pie](http://cookinginthecreek.com/pecan-pie/) is one of mine and Gabe’s newly loved favorite pies. When I found this recipe I was excited to include it in my cookie lineup for the holidays! It’s basically [Pecan Pie](http://cookinginthecreek.com/pecan-pie/) in cookie form, with a lot of the same ingredients, but simpler and less time-consuming. Which was a definite plus, since I was making 3 different types of cookies in one afternoon! It’s a great recipe to mix up the usual holiday cookie selections, and they just melt in your mouth!
 
-[![Pecan Bars - 1](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Pecan-Bars-1-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Pecan-Bars-1.jpg)
+[![Pecan Bars - 1](/wp-content/uploads/2013/12/Pecan-Bars-1-1024x680.jpg)](/wp-content/uploads/2013/12/Pecan-Bars-1.jpg)
 
-[![Pecan Bars - 2](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Pecan-Bars-2-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Pecan-Bars-2.jpg)
+[![Pecan Bars - 2](/wp-content/uploads/2013/12/Pecan-Bars-2-1024x680.jpg)](/wp-content/uploads/2013/12/Pecan-Bars-2.jpg)
 
-[![Pecan Bars - 3](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Pecan-Bars-3-680x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Pecan-Bars-3.jpg)
+[![Pecan Bars - 3](/wp-content/uploads/2013/12/Pecan-Bars-3-680x1024.jpg)](/wp-content/uploads/2013/12/Pecan-Bars-3.jpg)
 
-[![Pecan Bars - 4](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Pecan-Bars-4-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Pecan-Bars-4.jpg)
+[![Pecan Bars - 4](/wp-content/uploads/2013/12/Pecan-Bars-4-1024x680.jpg)](/wp-content/uploads/2013/12/Pecan-Bars-4.jpg)
 
-[![Pecan Bars - 5](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Pecan-Bars-5-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Pecan-Bars-5.jpg)
+[![Pecan Bars - 5](/wp-content/uploads/2013/12/Pecan-Bars-5-1024x680.jpg)](/wp-content/uploads/2013/12/Pecan-Bars-5.jpg)
 
-[![Pecan Bars - 6](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Pecan-Bars-6-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Pecan-Bars-6.jpg)
+[![Pecan Bars - 6](/wp-content/uploads/2013/12/Pecan-Bars-6-1024x680.jpg)](/wp-content/uploads/2013/12/Pecan-Bars-6.jpg)
 
-[![Pecan Bars - 7](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Pecan-Bars-7-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Pecan-Bars-7.jpg)
+[![Pecan Bars - 7](/wp-content/uploads/2013/12/Pecan-Bars-7-1024x680.jpg)](/wp-content/uploads/2013/12/Pecan-Bars-7.jpg)
 
-[![Pecan Bars - 8](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Pecan-Bars-8-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Pecan-Bars-8.jpg)
+[![Pecan Bars - 8](/wp-content/uploads/2013/12/Pecan-Bars-8-1024x680.jpg)](/wp-content/uploads/2013/12/Pecan-Bars-8.jpg)
 
-[![Pecan Bars - 9](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Pecan-Bars-9-974x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Pecan-Bars-9.jpg)
+[![Pecan Bars - 9](/wp-content/uploads/2013/12/Pecan-Bars-9-974x1024.jpg)](/wp-content/uploads/2013/12/Pecan-Bars-9.jpg)
 
 Prep time: 15 minutes
 

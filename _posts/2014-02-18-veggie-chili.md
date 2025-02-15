@@ -16,11 +16,11 @@ tags:
 
 Here’s another delicious, quick and easy recipe for dinner! This is not your traditional meat filled chili, but honestly I think I may prefer it. It’s filled with a variety of beans, which you can mix up to your preference, and simple veggies. Next time I think I might make some cornbread muffins to go along with it, because that sounds delicious. But first time around, Gabe and I had it for dinner, by itself, just topped with cheese and green onions. It satisfies your hungry belly, and is great for lunch leftovers, or can even be frozen for later. Enjoy!
 
-[![Veggie Chilli 001](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Veggie-Chilli-001-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Veggie-Chilli-001.jpg)
+[![Veggie Chilli 001](/wp-content/uploads/2014/02/Veggie-Chilli-001-1024x681.jpg)](/wp-content/uploads/2014/02/Veggie-Chilli-001.jpg)
 
-[![Veggie Chilli 002](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Veggie-Chilli-002-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Veggie-Chilli-002.jpg)
+[![Veggie Chilli 002](/wp-content/uploads/2014/02/Veggie-Chilli-002-1024x681.jpg)](/wp-content/uploads/2014/02/Veggie-Chilli-002.jpg)
 
-[![Veggie Chilli 003](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Veggie-Chilli-003-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Veggie-Chilli-003.jpg)
+[![Veggie Chilli 003](/wp-content/uploads/2014/02/Veggie-Chilli-003-1024x681.jpg)](/wp-content/uploads/2014/02/Veggie-Chilli-003.jpg)
 
 Prep time: 10 minutes
 

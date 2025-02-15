@@ -18,11 +18,11 @@ tags:
 
 <span style="color: #000000;">I think I’m in love with these tacos. When I told Gabe I was making meatless tacos, you might say he was less than enthused. Don’t get me wrong, I love a greasy carnitas street taco just as much as the next guy, but these tacos have so many fresh flavors going on, that you won’t even remember there isn’t any meat in there because your taste buds and your belly will be in heaven. These tacos are a combination of a few different recipes I came across, with a few elements from each to create one beautiful masterpiece. I think I will call them CALIFORNIA SUMMER TACOS! The grilled sweet potato acts as the meat substitute, giving you that hearty centerpiece to your taco, while the veggies add a freshness that only summer vegetables can provide, all topped with the most delicious creamy cilantro lime dressing. ¡Buen apetito!</span>
 
-[![ca-summer-tacos 001](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/06/ca-summer-tacos-001-1024x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/06/ca-summer-tacos-001.jpg)
+[![ca-summer-tacos 001](/wp-content/uploads/2014/06/ca-summer-tacos-001-1024x1024.jpg)](/wp-content/uploads/2014/06/ca-summer-tacos-001.jpg)
 
-[![ca-summer-tacos 002](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/06/ca-summer-tacos-002-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/06/ca-summer-tacos-002.jpg)
+[![ca-summer-tacos 002](/wp-content/uploads/2014/06/ca-summer-tacos-002-1024x681.jpg)](/wp-content/uploads/2014/06/ca-summer-tacos-002.jpg)
 
-[![ca-summer-tacos 003](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/06/ca-summer-tacos-003-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/06/ca-summer-tacos-003.jpg)
+[![ca-summer-tacos 003](/wp-content/uploads/2014/06/ca-summer-tacos-003-1024x681.jpg)](/wp-content/uploads/2014/06/ca-summer-tacos-003.jpg)
 
 ### California Summer Tacos
 

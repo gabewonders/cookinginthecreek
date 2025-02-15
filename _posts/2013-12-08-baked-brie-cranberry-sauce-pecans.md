@@ -24,9 +24,9 @@ tags:
 
 This is the perfect appetizer for the holidays! I’m sure after Thanksgiving or Christmas you might have some extra Cranberry sauce lying around, and what better way to use it up, but with some delicious oo-wee-goowee Baked Brie. Every year, I’m responsible for making the cranberry sauce at my parents house for Thanksgiving, and this year I decided to switch up the recipe and make it with pears and honey (instead of cane sugar). I linked the recipe below. I doubled the cranberry recipe, so there was a ton leftover which gave me the perfect opportunity to make this amazing appetizer! Enjoy!
 
-[![Baked Brie 1](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/DSC_0028-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/DSC_0028-e1386566510404.jpg)
+[![Baked Brie 1](/wp-content/uploads/2013/12/DSC_0028-1024x680.jpg)](/wp-content/uploads/2013/12/DSC_0028-e1386566510404.jpg)
 
-[![Baked Brie with Cranberry Sauce and Pecans](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/01/Baked-Brie-with-Cranberry-Sauce-and-Pecans-1024x768.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/01/Baked-Brie-with-Cranberry-Sauce-and-Pecans.jpg)
+[![Baked Brie with Cranberry Sauce and Pecans](/wp-content/uploads/2014/01/Baked-Brie-with-Cranberry-Sauce-and-Pecans-1024x768.jpg)](/wp-content/uploads/2014/01/Baked-Brie-with-Cranberry-Sauce-and-Pecans.jpg)
 
  \*In the final picture, the recipe is doubled for a crowd.
 

@@ -21,21 +21,21 @@ categories:
 
 After traveling through Ireland a couple of years ago, and tasting the delicious Irish stews throughout my travels, I developed a love this kind of hearty beef stew. It’s sure to warm you up on a cold day. Just load up your bowl and grab some rustic bread with butter, and prepare for a long winter’s nap!
 
-[![Irish Beef Stew 1](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/IMG_0048-e1385937367484.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/IMG_0048-e1385937367484.jpg)
+[![Irish Beef Stew 1](/wp-content/uploads/2013/12/IMG_0048-e1385937367484.jpg)](/wp-content/uploads/2013/12/IMG_0048-e1385937367484.jpg)
 
-[![Irish Beef Stew 2](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/IMG_0050_2-1024x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/IMG_0050_2.jpg)
+[![Irish Beef Stew 2](/wp-content/uploads/2013/12/IMG_0050_2-1024x1024.jpg)](/wp-content/uploads/2013/12/IMG_0050_2.jpg)
 
-[![Irish Beef Stew 3](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/IMG_0051-1024x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/IMG_0051.jpg)
+[![Irish Beef Stew 3](/wp-content/uploads/2013/12/IMG_0051-1024x1024.jpg)](/wp-content/uploads/2013/12/IMG_0051.jpg)
 
-[![Irish Beef Stew 5](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/IMG_0052-1024x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/IMG_0052.jpg)
+[![Irish Beef Stew 5](/wp-content/uploads/2013/12/IMG_0052-1024x1024.jpg)](/wp-content/uploads/2013/12/IMG_0052.jpg)
 
-[![Irish Beef Stew 4](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/IMG_0053-1024x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/IMG_0053.jpg)
+[![Irish Beef Stew 4](/wp-content/uploads/2013/12/IMG_0053-1024x1024.jpg)](/wp-content/uploads/2013/12/IMG_0053.jpg)
 
-[![Irish Beef Stew 6](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/IMG_0054-1024x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/IMG_0054.jpg)
+[![Irish Beef Stew 6](/wp-content/uploads/2013/12/IMG_0054-1024x1024.jpg)](/wp-content/uploads/2013/12/IMG_0054.jpg)
 
-[![Irish Beef Stew 7](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/IMG_0055-1024x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/IMG_0055.jpg)
+[![Irish Beef Stew 7](/wp-content/uploads/2013/12/IMG_0055-1024x1024.jpg)](/wp-content/uploads/2013/12/IMG_0055.jpg)
 
-[![Irish Beef Stew 8](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/IMG_0057-1024x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/IMG_0057.jpg)
+[![Irish Beef Stew 8](/wp-content/uploads/2013/12/IMG_0057-1024x1024.jpg)](/wp-content/uploads/2013/12/IMG_0057.jpg)
 
 Prep Time: 20 minutes
 

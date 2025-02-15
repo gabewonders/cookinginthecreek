@@ -18,13 +18,13 @@ tags:
 
 This recipe is a great weeknight dinner option and it’s vegetarian. Which I’m now realizing, most of the recipes I pick are vegetarian. It’s full of colorful and delicious fresh vegetables and the with the peanut sauce and whole wheat pasta, it definitely fills you up!
 
-![Rainbow Peanut Noodles 004](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Rainbow-Peanut-Noodles-004-1024x680.jpg)
+![Rainbow Peanut Noodles 004](/wp-content/uploads/2014/02/Rainbow-Peanut-Noodles-004-1024x680.jpg)
 
-![Rainbow Peanut Noodles 003](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Rainbow-Peanut-Noodles-003-1024x680.jpg)
+![Rainbow Peanut Noodles 003](/wp-content/uploads/2014/02/Rainbow-Peanut-Noodles-003-1024x680.jpg)
 
-![Rainbow Peanut Noodles 002](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Rainbow-Peanut-Noodles-002-1024x680.jpg)
+![Rainbow Peanut Noodles 002](/wp-content/uploads/2014/02/Rainbow-Peanut-Noodles-002-1024x680.jpg)
 
-[![Rainbow Peanut Noodles 001](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Rainbow-Peanut-Noodles-001-1024x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/02/Rainbow-Peanut-Noodles-001.jpg)
+[![Rainbow Peanut Noodles 001](/wp-content/uploads/2014/02/Rainbow-Peanut-Noodles-001-1024x1024.jpg)](/wp-content/uploads/2014/02/Rainbow-Peanut-Noodles-001.jpg)
 
 Prep Time: 20 minutes
 

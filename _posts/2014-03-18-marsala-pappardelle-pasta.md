@@ -17,11 +17,11 @@ I made this pasta recipe last Friday night when Gabe and I had a couple friends 
 
 This dish is more than just delicious. It’s you’ve gotta keep going back for seconds because you just want another taste of the amazing flavors, delicious. I don’t come across many recipes that I feel could be a go-to recipe, especially for entertaining, but I think I’ve definitely found one here. Now, in the beginning I almost didn’t pin this recipe when I discovered it on Pinterest because of the hefty amount of cream . . . but for a special occasion like this, that’s when I think “everything in moderation” is fine! I wouldn’t have this be a weekly meal, but every once in awhile, would make quite a treat!
 
-[![Marsala Pappardelle Pasta](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/03/Marsala-Pappardelle-Pasta-001-1024x682.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/03/Marsala-Pappardelle-Pasta-001.jpg)
+[![Marsala Pappardelle Pasta](/wp-content/uploads/2014/03/Marsala-Pappardelle-Pasta-001-1024x682.jpg)](/wp-content/uploads/2014/03/Marsala-Pappardelle-Pasta-001.jpg)
 
-[![Marsala Pappardelle Pasta](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/03/Marsala-Pappardelle-Pasta-002-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/03/Marsala-Pappardelle-Pasta-002.jpg)
+[![Marsala Pappardelle Pasta](/wp-content/uploads/2014/03/Marsala-Pappardelle-Pasta-002-1024x681.jpg)](/wp-content/uploads/2014/03/Marsala-Pappardelle-Pasta-002.jpg)
 
-[![Marsala Pappardelle Pasta](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/03/Marsala-Pappardelle-Pasta-003-1024x682.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/03/Marsala-Pappardelle-Pasta-003.jpg)
+[![Marsala Pappardelle Pasta](/wp-content/uploads/2014/03/Marsala-Pappardelle-Pasta-003-1024x682.jpg)](/wp-content/uploads/2014/03/Marsala-Pappardelle-Pasta-003.jpg)
 
 Prep time: 15 minutes
 

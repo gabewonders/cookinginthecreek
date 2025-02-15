@@ -21,19 +21,19 @@ categories:
 
 The other day I was shopping at my local Trader Joe’s and came across Spaghetti squash at an amazing price, $2.29 for a huge one! What a steal! I was looking for a recipe to use it for, and stumbled across this one, a hearty meat sauce served over the squash. Now I don’t like to think of Spaghetti squash as a substitute for Spaghetti pasta, because I feel it the texture isn’t very similar. But it sure is lighter on the carbs. This dinner keeps the calories light, but still fills you up! Enjoy!
 
-[![Spaghetti Squash with Meat Ragu 4](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Butternut-Squash-Chiptole-Chile-1-1024x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Butternut-Squash-Chiptole-Chile-1.jpg)
+[![Spaghetti Squash with Meat Ragu 4](/wp-content/uploads/2013/12/Butternut-Squash-Chiptole-Chile-1-1024x1024.jpg)](/wp-content/uploads/2013/12/Butternut-Squash-Chiptole-Chile-1.jpg)
 
-[![Spaghetti Squash with Meat Ragu 5](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Butternut-Squash-Chiptole-Chile-6-1024x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Butternut-Squash-Chiptole-Chile-6.jpg)
+[![Spaghetti Squash with Meat Ragu 5](/wp-content/uploads/2013/12/Butternut-Squash-Chiptole-Chile-6-1024x1024.jpg)](/wp-content/uploads/2013/12/Butternut-Squash-Chiptole-Chile-6.jpg)
 
-[![Spaghetti Squash with Meat Ragu 6](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Butternut-Squash-Chiptole-Chile-7-1024x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Butternut-Squash-Chiptole-Chile-7.jpg)
+[![Spaghetti Squash with Meat Ragu 6](/wp-content/uploads/2013/12/Butternut-Squash-Chiptole-Chile-7-1024x1024.jpg)](/wp-content/uploads/2013/12/Butternut-Squash-Chiptole-Chile-7.jpg)
 
-[![Spaghetti Squash with Meat Ragu 1](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Spaghetti-Squash-with-Meat-Ragu-1-1024x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Spaghetti-Squash-with-Meat-Ragu-1.jpg)
+[![Spaghetti Squash with Meat Ragu 1](/wp-content/uploads/2013/12/Spaghetti-Squash-with-Meat-Ragu-1-1024x1024.jpg)](/wp-content/uploads/2013/12/Spaghetti-Squash-with-Meat-Ragu-1.jpg)
 
-[![Spaghetti Squash with Meat Ragu 3](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Spaghetti-Squash-with-Meat-Ragu-3-1024x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Spaghetti-Squash-with-Meat-Ragu-3.jpg)
+[![Spaghetti Squash with Meat Ragu 3](/wp-content/uploads/2013/12/Spaghetti-Squash-with-Meat-Ragu-3-1024x1024.jpg)](/wp-content/uploads/2013/12/Spaghetti-Squash-with-Meat-Ragu-3.jpg)
 
-[![Spaghetti Squash with Meat Ragu.2jpg](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Spaghetti-Squash-with-Meat-Ragu.2jpg-1024x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Spaghetti-Squash-with-Meat-Ragu.2jpg.jpg)
+[![Spaghetti Squash with Meat Ragu.2jpg](/wp-content/uploads/2013/12/Spaghetti-Squash-with-Meat-Ragu.2jpg-1024x1024.jpg)](/wp-content/uploads/2013/12/Spaghetti-Squash-with-Meat-Ragu.2jpg.jpg)
 
-[![Spaghetti Squash with Meat Ragu](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/11/IMG_0029-1024x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/11/IMG_0029-e1384408040249.jpg)
+[![Spaghetti Squash with Meat Ragu](/wp-content/uploads/2013/11/IMG_0029-1024x1024.jpg)](/wp-content/uploads/2013/11/IMG_0029-e1384408040249.jpg)
 
 Prep time: 20 minutes
 

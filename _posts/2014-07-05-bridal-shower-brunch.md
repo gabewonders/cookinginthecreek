@@ -27,11 +27,11 @@ tags:
     - wedding
 ---
 
-[![nicole-bridal-shower 004](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/nicole-bridal-shower-004-681x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/nicole-bridal-shower-004.jpg)
+[![nicole-bridal-shower 004](/wp-content/uploads/2014/07/nicole-bridal-shower-004-681x1024.jpg)](/wp-content/uploads/2014/07/nicole-bridal-shower-004.jpg)
 
 Last Sunday was my big sister Nicole’s bridal shower. We held the party in my Mom’s backyard and it was a beautiful (hot) summer day. The bridal shower theme was brunch and, of course, I wanted to help with the food &amp; drinks and take the opportunity to try some new recipes. I must say, the food was absolutely delicious. The recipes I chose were new to me and I didn’t even have a chance to taste test anything before we put it out for everyone to eat. During the shower, Nicole’s soon-to-be Mother-in-law pulled me over to her and said, “Megan, something’s wrong with this French toast . . . ” My heart dropped, thinking “Oh no! I didn’t even test it, and for all I know it’s horrible.” Luckily, she was just teasing me and every dish was a hit with all the ladies. Not one bite was left over! I wanted to share some photos and the recipes that we made for the shower, because they were absolutely delicious! All the recipes can be made the night before and popped in the oven the next morning, which is great for events like this, or even during the holidays!
 
-![nicole-bridal-shower 010](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/nicole-bridal-shower-010-1024x681.jpg)
+![nicole-bridal-shower 010](/wp-content/uploads/2014/07/nicole-bridal-shower-010-1024x681.jpg)
 
 Pictured on the table, left to right, see each recipe below!
 
@@ -81,7 +81,7 @@ Prepare pastry shell in pie plate. Sprinkle bacon, cheese, onion and spinach in 
 
 **Do-ahead tip:** After sprinkling pastry with bacon, cheese and onion, cover and refrigerate. Beat remaining ingredients, put in covered container and refrigerate. Store no longer than 24 hours. Stir egg mixture before pouring into pie plate. Continue as directed except – increase second cooking time to about 40 – 45 minutes.
 
-### ![nicole-bridal-shower 011](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/nicole-bridal-shower-011-1024x681.jpg)
+### ![nicole-bridal-shower 011](/wp-content/uploads/2014/07/nicole-bridal-shower-011-1024x681.jpg)
 
 
 ### 4. Carrot Cake Cupcakes – Recipe by Elizabeth Dinon (My Nonna).
@@ -154,22 +154,22 @@ Once cupcakes or cake is cooled completely, frost the cupcakes/cake.
 
 *Mimosa Bar with fresh fruit and juice!*
 
-![nicole-bridal-shower 009](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/nicole-bridal-shower-009-1024x681.jpg)
+![nicole-bridal-shower 009](/wp-content/uploads/2014/07/nicole-bridal-shower-009-1024x681.jpg)
 
 *Advice table for the Bride to be.*
 
-![nicole-bridal-shower 008](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/nicole-bridal-shower-008-1024x681.jpg)
+![nicole-bridal-shower 008](/wp-content/uploads/2014/07/nicole-bridal-shower-008-1024x681.jpg)
 
 *The Bridal Party.*
 
-[![nicole-bridal-shower 005](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/nicole-bridal-shower-005-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/nicole-bridal-shower-005.jpg)
+[![nicole-bridal-shower 005](/wp-content/uploads/2014/07/nicole-bridal-shower-005-1024x681.jpg)](/wp-content/uploads/2014/07/nicole-bridal-shower-005.jpg)
 
-[![nicole-bridal-shower 006](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/nicole-bridal-shower-006-681x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/nicole-bridal-shower-006.jpg)
+[![nicole-bridal-shower 006](/wp-content/uploads/2014/07/nicole-bridal-shower-006-681x1024.jpg)](/wp-content/uploads/2014/07/nicole-bridal-shower-006.jpg)
 
-[![nicole-bridal-shower 007](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/nicole-bridal-shower-007-681x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/nicole-bridal-shower-007.jpg)
+[![nicole-bridal-shower 007](/wp-content/uploads/2014/07/nicole-bridal-shower-007-681x1024.jpg)](/wp-content/uploads/2014/07/nicole-bridal-shower-007.jpg)
 
-[![nicole-bridal-shower 012](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/nicole-bridal-shower-012-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/nicole-bridal-shower-012.jpg)
+[![nicole-bridal-shower 012](/wp-content/uploads/2014/07/nicole-bridal-shower-012-1024x681.jpg)](/wp-content/uploads/2014/07/nicole-bridal-shower-012.jpg)
 
-[![nicole-bridal-shower 013](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/nicole-bridal-shower-013-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/nicole-bridal-shower-013.jpg)
+[![nicole-bridal-shower 013](/wp-content/uploads/2014/07/nicole-bridal-shower-013-1024x681.jpg)](/wp-content/uploads/2014/07/nicole-bridal-shower-013.jpg)
 
-[![nicole-bridal-shower 014](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/nicole-bridal-shower-014-681x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/07/nicole-bridal-shower-014.jpg)
+[![nicole-bridal-shower 014](/wp-content/uploads/2014/07/nicole-bridal-shower-014-681x1024.jpg)](/wp-content/uploads/2014/07/nicole-bridal-shower-014.jpg)

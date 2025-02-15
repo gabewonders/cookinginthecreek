@@ -25,7 +25,7 @@ tags:
 
 HELLO Cooking in the Creek!! We have a great new recipe to share with you all. Sweet Potato, Squash, &amp; Black Bean Enchiladas! This is another recipe from the cookbook *Thug Kitchen.* They are packed with yummy vegetables and legumes, and vegetarian and vegan friendly. When I first read the ingredient list, I thought how could enchiladas without cheese be enchiladas?! But man, I didn’t even miss the cheese, especially if you top them with some delicious creamy avocado slices. So don’t let that stop you from trying these! They might turn your mind up side down 🙂
 
-[![Sweet Potato, Squash, & Black Bean Enchiladas. They are packed with yummy vegetables and legumes, and vegetarian and vegan friendly. | cookinginthecreek.com](http://cookinginthecreek.com/wordpress/wp-content/uploads/2015/07/black-bean-enchiladas1-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2015/07/black-bean-enchiladas1.jpg)
+[![Sweet Potato, Squash, & Black Bean Enchiladas. They are packed with yummy vegetables and legumes, and vegetarian and vegan friendly. | cookinginthecreek.com](/wp-content/uploads/2015/07/black-bean-enchiladas1-1024x681.jpg)](/wp-content/uploads/2015/07/black-bean-enchiladas1.jpg)
 
 ### <span style="line-height: 1.5;">Sweet Potato, Squash, &amp; Black Bean Enchiladas</span>
 

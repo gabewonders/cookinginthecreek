@@ -19,13 +19,13 @@ tags:
 I’ve recently discovered my new favorite breakfast smoothie. It’s the perfect combination of flavors and has ingredients that will keep you full in the morning. I’ve always loved peanut butter on my toast for breakfast, but never thought about putting it into a smoothie. Once I tried it, I was hooked!
 
 
-[![PB & J Smoothie](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/05/PBJ-Smoothie-001-1024x682.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/05/PBJ-Smoothie-001.jpg)
+[![PB & J Smoothie](/wp-content/uploads/2014/05/PBJ-Smoothie-001-1024x682.jpg)](/wp-content/uploads/2014/05/PBJ-Smoothie-001.jpg)
 
-[![PB & J Smoothie](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/05/PBJ-Smoothie-002-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/05/PBJ-Smoothie-002.jpg)
+[![PB & J Smoothie](/wp-content/uploads/2014/05/PBJ-Smoothie-002-1024x681.jpg)](/wp-content/uploads/2014/05/PBJ-Smoothie-002.jpg)
 
-[![PB & J Smoothie](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/05/PBJ-Smoothie-003-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/05/PBJ-Smoothie-003.jpg)
+[![PB & J Smoothie](/wp-content/uploads/2014/05/PBJ-Smoothie-003-1024x681.jpg)](/wp-content/uploads/2014/05/PBJ-Smoothie-003.jpg)
 
-[![PB & J Smoothie](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/05/PBJ-Smoothie-004-1024x682.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/05/PBJ-Smoothie-004.jpg)
+[![PB & J Smoothie](/wp-content/uploads/2014/05/PBJ-Smoothie-004-1024x682.jpg)](/wp-content/uploads/2014/05/PBJ-Smoothie-004.jpg)
 
 ### PB &amp; J Smoothie
 

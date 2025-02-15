@@ -13,17 +13,17 @@ categories:
 
 I’ve always wanted to make this recipe from my *Barefoot Contessa Foolproof* cookbook, but frankly the number of ingredients needed always discouraged me. I was flipping through the book the other day and came across it again and realized I had most of the ingredients on hand, so I thought it would be the perfect dinner recipe for a chilly winter night. Although the total time estimated to make the soup is about an hour and a half, it won’t require you to stand over the stove the whole time. The hardest part is prepping the ingredients and chopping all the vegetables. Also, if you want to cut yourself a break, buy the pre-cut butternut squash from the store like I do, it makes things a lot easier! This soup has so much flavor going on, that my taste buds didn’t even believe it was Minestrone soup! Not that I don’t enjoy Minestrone soup, but this recipe is on another level with the flavors from the pancetta, fresh herbs, wine, and pesto! So don’t be turned off by the lengthy list of ingredients. Plus it makes a ton of leftovers that are great for lunch!
 
-[![Minestrone Soup - 1](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/01/Minestrone-Soup-1-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/01/Minestrone-Soup-1.jpg)
+[![Minestrone Soup - 1](/wp-content/uploads/2014/01/Minestrone-Soup-1-1024x680.jpg)](/wp-content/uploads/2014/01/Minestrone-Soup-1.jpg)
 
-[![Minestrone Soup - 2](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/01/Minestrone-Soup-2-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/01/Minestrone-Soup-2.jpg)
+[![Minestrone Soup - 2](/wp-content/uploads/2014/01/Minestrone-Soup-2-1024x680.jpg)](/wp-content/uploads/2014/01/Minestrone-Soup-2.jpg)
 
-[![Minestrone Soup - 3](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/01/Minestrone-Soup-3-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/01/Minestrone-Soup-3.jpg)
+[![Minestrone Soup - 3](/wp-content/uploads/2014/01/Minestrone-Soup-3-1024x680.jpg)](/wp-content/uploads/2014/01/Minestrone-Soup-3.jpg)
 
-[![Minestrone Soup - 4](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/01/Minestrone-Soup-4-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/01/Minestrone-Soup-4.jpg)
+[![Minestrone Soup - 4](/wp-content/uploads/2014/01/Minestrone-Soup-4-1024x680.jpg)](/wp-content/uploads/2014/01/Minestrone-Soup-4.jpg)
 
-[![Minestrone Soup - 6](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/01/Minestrone-Soup-6-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/01/Minestrone-Soup-6.jpg)
+[![Minestrone Soup - 6](/wp-content/uploads/2014/01/Minestrone-Soup-6-1024x680.jpg)](/wp-content/uploads/2014/01/Minestrone-Soup-6.jpg)
 
-[![Minestrone Soup - 7](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/01/Minestrone-Soup-7-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/01/Minestrone-Soup-7.jpg)
+[![Minestrone Soup - 7](/wp-content/uploads/2014/01/Minestrone-Soup-7-1024x680.jpg)](/wp-content/uploads/2014/01/Minestrone-Soup-7.jpg)
 
 Prep time: 30 minutes
 

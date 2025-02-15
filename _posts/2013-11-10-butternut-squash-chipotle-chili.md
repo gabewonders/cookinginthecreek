@@ -21,13 +21,13 @@ categories:
 
 If you’re looking for a hearty fall stew and love butternut squash, this is the chili for you! This is a unique chili recipe that has a nice added kick from the chipotle chilies in adobo sauce. It’s a one-pot meal, and makes for great leftovers and freezes well. Warm up your belly with this dish!
 
-[![Butternut Squash Chiptole Chile 2](/wp-content/uploads/2013/12/Butternut-Squash-Chiptole-Chile-2-1024x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Butternut-Squash-Chiptole-Chile-2.jpg)
+[![Butternut Squash Chiptole Chile 2](/wp-content/uploads/2013/12/Butternut-Squash-Chiptole-Chile-2-1024x1024.jpg)](/wp-content/uploads/2013/12/Butternut-Squash-Chiptole-Chile-2.jpg)
 
-[![Butternut Squash Chipotle Chile 3](/wp-content/uploads/2013/12/Butternut-Squash-Chiptole-Chile-4-1024x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Butternut-Squash-Chiptole-Chile-4.jpg)
+[![Butternut Squash Chipotle Chile 3](/wp-content/uploads/2013/12/Butternut-Squash-Chiptole-Chile-4-1024x1024.jpg)](/wp-content/uploads/2013/12/Butternut-Squash-Chiptole-Chile-4.jpg)
 
-[![Butternut Squash Chiptole Chile 5](/wp-content/uploads/2013/12/Butternut-Squash-Chiptole-Chile-5-1024x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Butternut-Squash-Chiptole-Chile-5.jpg)
+[![Butternut Squash Chiptole Chile 5](/wp-content/uploads/2013/12/Butternut-Squash-Chiptole-Chile-5-1024x1024.jpg)](/wp-content/uploads/2013/12/Butternut-Squash-Chiptole-Chile-5.jpg)
 
-[![Butternut Squash Chiptole Chile](/wp-content/uploads/2013/11/IMG_0013-1024x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/11/IMG_0013-e1384236192616.jpg)
+[![Butternut Squash Chiptole Chile](/wp-content/uploads/2013/11/IMG_0013-1024x1024.jpg)](/wp-content/uploads/2013/11/IMG_0013-e1384236192616.jpg)
 
 Prep time: 20 mins
 

@@ -13,11 +13,11 @@ categories:
 
 Here’s a Classic cookie recipe that I’m sure many people are familiar with. These cookies are heaven in my mouth, I love the combination of chocolate and peanut butter! After making these, I found myself wondering why I only make these at Christmas. These cookies would be wonderful all year round!
 
-[![Peanut Blossoms - 1](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Peanut-Blossoms-1-1024x680.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Peanut-Blossoms-1.jpg)
+[![Peanut Blossoms - 1](/wp-content/uploads/2013/12/Peanut-Blossoms-1-1024x680.jpg)](/wp-content/uploads/2013/12/Peanut-Blossoms-1.jpg)
 
-[![Peanut Blossoms - 2](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Peanut-Blossoms-2-680x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Peanut-Blossoms-2.jpg)
+[![Peanut Blossoms - 2](/wp-content/uploads/2013/12/Peanut-Blossoms-2-680x1024.jpg)](/wp-content/uploads/2013/12/Peanut-Blossoms-2.jpg)
 
-[![Peanut Blossoms - 3](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Peanut-Blossoms-3-680x1024.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2013/12/Peanut-Blossoms-3.jpg)
+[![Peanut Blossoms - 3](/wp-content/uploads/2013/12/Peanut-Blossoms-3-680x1024.jpg)](/wp-content/uploads/2013/12/Peanut-Blossoms-3.jpg)
 
 Prep time: 20 minutes
 

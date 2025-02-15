@@ -17,11 +17,11 @@ tags:
 
 This is a great recipe for all the winter vegetables in season right now! The vegetables are roasted in the oven with maple syrup and butter, combining sweet and salty flavors, which is always a delicious combination. Then, the roasted vegetables are served alongside creamy rosemary polenta. The polenta and vegetables can be served as dinner by themselves, or you could always cut down the portions and serve them as side dishes along with a nice piece of meat.
 
-[![Maple Roasted Root Vegetables](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/03/Maple-Roasted-Root-Vegetables-with-Polenta-001-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/03/Maple-Roasted-Root-Vegetables-with-Polenta-001.jpg)
+[![Maple Roasted Root Vegetables](/wp-content/uploads/2014/03/Maple-Roasted-Root-Vegetables-with-Polenta-001-1024x681.jpg)](/wp-content/uploads/2014/03/Maple-Roasted-Root-Vegetables-with-Polenta-001.jpg)
 
-[![Maple Roasted Root Vegetables with Polenta](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/03/Maple-Roasted-Root-Vegetables-with-Polenta-002-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/03/Maple-Roasted-Root-Vegetables-with-Polenta-002.jpg)
+[![Maple Roasted Root Vegetables with Polenta](/wp-content/uploads/2014/03/Maple-Roasted-Root-Vegetables-with-Polenta-002-1024x681.jpg)](/wp-content/uploads/2014/03/Maple-Roasted-Root-Vegetables-with-Polenta-002.jpg)
 
-[![Maple Roasted Root Vegetables with Polenta](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/03/Maple-Roasted-Root-Vegetables-with-Polenta-003-1024x681.jpg)](http://cookinginthecreek.com/wordpress/wp-content/uploads/2014/03/Maple-Roasted-Root-Vegetables-with-Polenta-003.jpg)
+[![Maple Roasted Root Vegetables with Polenta](/wp-content/uploads/2014/03/Maple-Roasted-Root-Vegetables-with-Polenta-003-1024x681.jpg)](/wp-content/uploads/2014/03/Maple-Roasted-Root-Vegetables-with-Polenta-003.jpg)
 
 Prep time: 15 minutes
 
