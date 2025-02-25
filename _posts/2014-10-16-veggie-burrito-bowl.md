@@ -25,17 +25,17 @@ tags:
 
 One of my guilty pleasure take out items has always been a Chipotle Vegetarian Burrito Bowl. It’s a semi-healthy option when it comes to quick, cheap and fresh take out, and always satisfies my hungry belly. I’m surprised Gabe and I have never made these at home, because it’s actually really easy. The longest part is waiting for the rice to cook, but if you wanted to, you could prepare the rice ahead of time. This dish has a ton of flavor, especially the cilantro lime rice. I’m looking forward to making it again and switching up the veggies and toppings. It’s a versatile dish that can be adapted to your own preferences.
 
-[![Veggie Burrito Bowl - Build a burrito bowl with rice beans, veggies and toppings! Feel free to use any type of vegetables you like best and try different toppings. | cookinginthecreek.com](/wp-content/uploads/2014/10/veggie-burrito-bowl-1-1024x681.jpg)](/wp-content/uploads/2014/10/veggie-burrito-bowl-1.jpg)
+[![Veggie Burrito Bowl - Build a burrito bowl with rice beans, veggies and toppings! Feel free to use any type of vegetables you like best and try different toppings.](/wp-content/uploads/2014/10/veggie-burrito-bowl-1-1024x681.jpg)](/wp-content/uploads/2014/10/veggie-burrito-bowl-1.jpg)
 
-[![Veggie Burrito Bowl - Build a burrito bowl with rice beans, veggies and toppings! Feel free to use any type of vegetables you like best and try different toppings. | cookinginthecreek.com](/wp-content/uploads/2014/10/veggie-burrito-bowl-2-1024x681.jpg)](/wp-content/uploads/2014/10/veggie-burrito-bowl-2.jpg)
+[![Veggie Burrito Bowl - Build a burrito bowl with rice beans, veggies and toppings! Feel free to use any type of vegetables you like best and try different toppings.](/wp-content/uploads/2014/10/veggie-burrito-bowl-2-1024x681.jpg)](/wp-content/uploads/2014/10/veggie-burrito-bowl-2.jpg)
 
-[![Veggie Burrito Bowl - Build a burrito bowl with rice beans, veggies and toppings! Feel free to use any type of vegetables you like best and try different toppings. | cookinginthecreek.com](/wp-content/uploads/2014/10/veggie-burrito-bowl-3-1024x681.jpg)](/wp-content/uploads/2014/10/veggie-burrito-bowl-3.jpg)
+[![Veggie Burrito Bowl - Build a burrito bowl with rice beans, veggies and toppings! Feel free to use any type of vegetables you like best and try different toppings.](/wp-content/uploads/2014/10/veggie-burrito-bowl-3-1024x681.jpg)](/wp-content/uploads/2014/10/veggie-burrito-bowl-3.jpg)
 
-[![Veggie Burrito Bowl - Build a burrito bowl with rice beans, veggies and toppings! Feel free to use any type of vegetables you like best and try different toppings. | cookinginthecreek.com](/wp-content/uploads/2014/10/veggie-burrito-bowl-4-1024x681.jpg)](/wp-content/uploads/2014/10/veggie-burrito-bowl-4.jpg)
+[![Veggie Burrito Bowl - Build a burrito bowl with rice beans, veggies and toppings! Feel free to use any type of vegetables you like best and try different toppings.](/wp-content/uploads/2014/10/veggie-burrito-bowl-4-1024x681.jpg)](/wp-content/uploads/2014/10/veggie-burrito-bowl-4.jpg)
 
-[![Veggie Burrito Bowl - Build a burrito bowl with rice beans, veggies and toppings! Feel free to use any type of vegetables you like best and try different toppings. | cookinginthecreek.com](/wp-content/uploads/2014/10/veggie-burrito-bowl-5-1024x681.jpg)](/wp-content/uploads/2014/10/veggie-burrito-bowl-5.jpg)
+[![Veggie Burrito Bowl - Build a burrito bowl with rice beans, veggies and toppings! Feel free to use any type of vegetables you like best and try different toppings.](/wp-content/uploads/2014/10/veggie-burrito-bowl-5-1024x681.jpg)](/wp-content/uploads/2014/10/veggie-burrito-bowl-5.jpg)
 
-[![Veggie Burrito Bowl - Build a burrito bowl with rice beans, veggies and toppings! Feel free to use any type of vegetables you like best and try different toppings. | cookinginthecreek.com](/wp-content/uploads/2014/10/veggie-burrito-bowl-6-1024x681.jpg)](/wp-content/uploads/2014/10/veggie-burrito-bowl-6.jpg)
+[![Veggie Burrito Bowl - Build a burrito bowl with rice beans, veggies and toppings! Feel free to use any type of vegetables you like best and try different toppings.](/wp-content/uploads/2014/10/veggie-burrito-bowl-6-1024x681.jpg)](/wp-content/uploads/2014/10/veggie-burrito-bowl-6.jpg)
 
 
 ### Veggie Burrito Bowl

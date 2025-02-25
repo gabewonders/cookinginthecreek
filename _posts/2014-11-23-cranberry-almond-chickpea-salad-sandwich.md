@@ -30,15 +30,15 @@ Our first official lunch recipe on Cooking in the Creek! I did not realize there
 
 NOW back to the recipe. This Cranberry Almond Chickpea Salad Sandwich is vegan, but you wouldn’t even know it or think about it while you’re eating it. The dressing has an unusual pairing of ingredients, but actually compliments the rest of the salad amazingly. I love when I find a recipe and I have all the ingredients on hand, it makes it that much easier. We ate these as open faced sandwiches on a bed of baby kale and toasted whole wheat bread. It was delicious!!
 
-[  ](/wp-content/uploads/2014/11/Cranberry-Almond-Chickpea-Salad-Sandwich-1.jpg) ![Chickpea Salad Sandwich full of fresh scallions, celery, nuts and cranberries with a nutty tahini dressing. | cookinginthecreek.com](/wp-content/uploads/2014/11/Cranberry-Almond-Chickpea-Salad-Sandwich-2-1024x681.jpg)
+[  ](/wp-content/uploads/2014/11/Cranberry-Almond-Chickpea-Salad-Sandwich-1.jpg) ![Chickpea Salad Sandwich full of fresh scallions, celery, nuts and cranberries with a nutty tahini dressing.](/wp-content/uploads/2014/11/Cranberry-Almond-Chickpea-Salad-Sandwich-2-1024x681.jpg)
 
-![Chickpea Salad Sandwich full of fresh scallions, celery, nuts and cranberries with a nutty tahini dressing. | cookinginthecreek.com](/wp-content/uploads/2014/11/Cranberry-Almond-Chickpea-Salad-Sandwich-3-1024x681.jpg)
+![Chickpea Salad Sandwich full of fresh scallions, celery, nuts and cranberries with a nutty tahini dressing.](/wp-content/uploads/2014/11/Cranberry-Almond-Chickpea-Salad-Sandwich-3-1024x681.jpg)
 
-![Chickpea Salad Sandwich full of fresh scallions, celery, nuts and cranberries with a nutty tahini dressing. | cookinginthecreek.com](/wp-content/uploads/2014/11/Cranberry-Almond-Chickpea-Salad-Sandwich-4-1024x681.jpg)
+![Chickpea Salad Sandwich full of fresh scallions, celery, nuts and cranberries with a nutty tahini dressing.](/wp-content/uploads/2014/11/Cranberry-Almond-Chickpea-Salad-Sandwich-4-1024x681.jpg)
 
-![Chickpea Salad Sandwich full of fresh scallions, celery, nuts and cranberries with a nutty tahini dressing. | cookinginthecreek.com](/wp-content/uploads/2014/11/Cranberry-Almond-Chickpea-Salad-Sandwich-5-1024x681.jpg)
+![Chickpea Salad Sandwich full of fresh scallions, celery, nuts and cranberries with a nutty tahini dressing.](/wp-content/uploads/2014/11/Cranberry-Almond-Chickpea-Salad-Sandwich-5-1024x681.jpg)
 
-![Chickpea Salad Sandwich full of fresh scallions, celery, nuts and cranberries with a nutty tahini dressing. | cookinginthecreek.com](/wp-content/uploads/2014/11/Cranberry-Almond-Chickpea-Salad-Sandwich-6-681x1024.jpg)
+![Chickpea Salad Sandwich full of fresh scallions, celery, nuts and cranberries with a nutty tahini dressing.](/wp-content/uploads/2014/11/Cranberry-Almond-Chickpea-Salad-Sandwich-6-681x1024.jpg)
 
 ### Cranberry Almond Chickpea Salad Sandwich
 

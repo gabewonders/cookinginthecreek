@@ -28,13 +28,13 @@ Initially I thought of making lasagna because we had one more pack of deer meat 
 
 [![Mama's Lasagna - Cooking in the Creek. A family recipe for a classic lasagna. Pure comfort food at it's best. Layers of pasta, with ricotta, mozzarella and parmesan cheese, and home-made marinara](/wp-content/uploads/2014/11/Oct90-1024x715.jpeg)](/wp-content/uploads/2014/11/Oct90.jpeg)
 
-![A family recipe for a classic lasagna. Pure comfort food at it's best. Layers of pasta, with ricotta, mozzarella and parmesan cheese, and home-made marinara | cookinginthecreek.com](/wp-content/uploads/2014/11/mamas-lasagna-2.jpg)
+![A family recipe for a classic lasagna. Pure comfort food at it's best. Layers of pasta, with ricotta, mozzarella and parmesan cheese, and home-made marinara](/wp-content/uploads/2014/11/mamas-lasagna-2.jpg)
 
-![A family recipe for a classic lasagna. Pure comfort food at it's best. Layers of pasta, with ricotta, mozzarella and parmesan cheese, and home-made marinara | cookinginthecreek.com](/wp-content/uploads/2014/11/mamas-lasagna-3.jpg)
+![A family recipe for a classic lasagna. Pure comfort food at it's best. Layers of pasta, with ricotta, mozzarella and parmesan cheese, and home-made marinara](/wp-content/uploads/2014/11/mamas-lasagna-3.jpg)
 
-![A family recipe for a classic lasagna. Pure comfort food at it's best. Layers of pasta, with ricotta, mozzarella and parmesan cheese, and home-made marinara | cookinginthecreek.com](/wp-content/uploads/2014/11/mamas-lasagna-4-copy1.jpg)
+![A family recipe for a classic lasagna. Pure comfort food at it's best. Layers of pasta, with ricotta, mozzarella and parmesan cheese, and home-made marinara](/wp-content/uploads/2014/11/mamas-lasagna-4-copy1.jpg)
 
-![A family recipe for a classic lasagna. Pure comfort food at it's best. Layers of pasta, with ricotta, mozzarella and parmesan cheese, and home-made marinara | cookinginthecreek.com](/wp-content/uploads/2014/11/mamas-lasagna-5.jpg)
+![A family recipe for a classic lasagna. Pure comfort food at it's best. Layers of pasta, with ricotta, mozzarella and parmesan cheese, and home-made marinara](/wp-content/uploads/2014/11/mamas-lasagna-5.jpg)
 
 ### Mama’s Lasagna
 

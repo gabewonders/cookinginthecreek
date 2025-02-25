@@ -25,11 +25,11 @@ tags:
 
 This is another delicious recipe for your slow cooker that doesn’t require any pre-cooking. You can just toss all the ingredients into the slow cooker, turn it on and forget about it until you come home from a long day at work with your house smelling amazing and dinner all ready! This soup is so tasty! It’s not as spicy as I thought it may be with two jalapeños and cayenne pepper. It was just the right spice level for Gabe and I. We like spicy foods, but it wasn’t overbearing at all. It’s wonderful to finish off the soup with your favorite toppings, sour cream, cheese, green onions or tortilla chips for crunch! It makes for great leftovers and can be frozen too.
 
-[![Slow Cooker soup filled with shredded chicken, beans, vegetables and the perfect amount of spice. | cookinginthecreek.com](/wp-content/uploads/2014/10/slow-cooker-chicken-tortilla-soup-1-1024x681.jpg)](/wp-content/uploads/2014/10/slow-cooker-chicken-tortilla-soup-1.jpg)
+[![Slow Cooker soup filled with shredded chicken, beans, vegetables and the perfect amount of spice.](/wp-content/uploads/2014/10/slow-cooker-chicken-tortilla-soup-1-1024x681.jpg)](/wp-content/uploads/2014/10/slow-cooker-chicken-tortilla-soup-1.jpg)
 
-[![Slow Cooker soup filled with shredded chicken, beans, vegetables and the perfect amount of spice. | cookinginthecreek.com](/wp-content/uploads/2014/10/slow-cooker-chicken-tortilla-soup-2-1024x681.jpg)](/wp-content/uploads/2014/10/slow-cooker-chicken-tortilla-soup-2.jpg)
+[![Slow Cooker soup filled with shredded chicken, beans, vegetables and the perfect amount of spice.](/wp-content/uploads/2014/10/slow-cooker-chicken-tortilla-soup-2-1024x681.jpg)](/wp-content/uploads/2014/10/slow-cooker-chicken-tortilla-soup-2.jpg)
 
-[![Slow Cooker soup filled with shredded chicken, beans, vegetables and the perfect amount of spice. | cookinginthecreek.com](/wp-content/uploads/2014/10/slow-cooker-chicken-tortilla-soup-3-681x1024.jpg)](/wp-content/uploads/2014/10/slow-cooker-chicken-tortilla-soup-3.jpg)
+[![Slow Cooker soup filled with shredded chicken, beans, vegetables and the perfect amount of spice.](/wp-content/uploads/2014/10/slow-cooker-chicken-tortilla-soup-3-681x1024.jpg)](/wp-content/uploads/2014/10/slow-cooker-chicken-tortilla-soup-3.jpg)
 
 ### Slow Cooker Chicken Tortilla Soup
 

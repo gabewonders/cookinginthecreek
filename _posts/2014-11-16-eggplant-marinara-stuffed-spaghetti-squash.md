@@ -25,13 +25,13 @@ tags:
 
 It’s that time of year when all the delicious squashes are in season and I’m loving it! Although, Gabe and I found that spaghetti squash was quite sparse at the farmers market this past weekend. When we did finally find some, the price was not labeled, and I somehow inadvertently negotiated the price down. I guess it’s true when people say you can actually bargain at the farmers market. We had also bought some eggplant because I wanted to try having some veggies that were more out of the norm. I usually stay away from eggplant, although I love the taste, I don’t have much experience cooking it, and something about salting it before you cook it seems like too much work most of the time. The idea for this dish just came to me when all we had left towards the end of the week were these two vegetables. I thought it would be delicious to roast the spaghetti squash, add some home-made marinara sauce, with chunks of roasted eggplant, kalamata olives, and top with cheese and roast in the oven. Boy was it yummy! A nice mix a comforting flavors and yummy veggies.
 
-[![Roasted spaghetti squash, home-made marinara sauce, with chunks of roasted eggplant, kalamata olives, and melted cheese. | cookinginthecreek.com](/wp-content/uploads/2014/11/Eggplant-Marinara-Stuffed-Spaghetti-Squash-1-681x1024.jpg)](/wp-content/uploads/2014/11/Eggplant-Marinara-Stuffed-Spaghetti-Squash-1.jpg)
+[![Roasted spaghetti squash, home-made marinara sauce, with chunks of roasted eggplant, kalamata olives, and melted cheese.](/wp-content/uploads/2014/11/Eggplant-Marinara-Stuffed-Spaghetti-Squash-1-681x1024.jpg)](/wp-content/uploads/2014/11/Eggplant-Marinara-Stuffed-Spaghetti-Squash-1.jpg)
 
-[![Roasted spaghetti squash, home-made marinara sauce, with chunks of roasted eggplant, kalamata olives, and melted cheese. | cookinginthecreek.com](/wp-content/uploads/2014/11/Eggplant-Marinara-Stuffed-Spaghetti-Squash-2-1024x681.jpg)](/wp-content/uploads/2014/11/Eggplant-Marinara-Stuffed-Spaghetti-Squash-2.jpg)
+[![Roasted spaghetti squash, home-made marinara sauce, with chunks of roasted eggplant, kalamata olives, and melted cheese.](/wp-content/uploads/2014/11/Eggplant-Marinara-Stuffed-Spaghetti-Squash-2-1024x681.jpg)](/wp-content/uploads/2014/11/Eggplant-Marinara-Stuffed-Spaghetti-Squash-2.jpg)
 
-[![Roasted spaghetti squash, home-made marinara sauce, with chunks of roasted eggplant, kalamata olives, and melted cheese. | cookinginthecreek.com](/wp-content/uploads/2014/11/Eggplant-Marinara-Stuffed-Spaghetti-Squash-3-681x1024.jpg)](/wp-content/uploads/2014/11/Eggplant-Marinara-Stuffed-Spaghetti-Squash-3.jpg)
+[![Roasted spaghetti squash, home-made marinara sauce, with chunks of roasted eggplant, kalamata olives, and melted cheese.](/wp-content/uploads/2014/11/Eggplant-Marinara-Stuffed-Spaghetti-Squash-3-681x1024.jpg)](/wp-content/uploads/2014/11/Eggplant-Marinara-Stuffed-Spaghetti-Squash-3.jpg)
 
-[![Roasted spaghetti squash, home-made marinara sauce, with chunks of roasted eggplant, kalamata olives, and melted cheese. | cookinginthecreek.com](/wp-content/uploads/2014/11/Eggplant-Marinara-Stuffed-Spaghetti-Squash-4-1024x681.jpg)](/wp-content/uploads/2014/11/Eggplant-Marinara-Stuffed-Spaghetti-Squash-4.jpg)
+[![Roasted spaghetti squash, home-made marinara sauce, with chunks of roasted eggplant, kalamata olives, and melted cheese.](/wp-content/uploads/2014/11/Eggplant-Marinara-Stuffed-Spaghetti-Squash-4-1024x681.jpg)](/wp-content/uploads/2014/11/Eggplant-Marinara-Stuffed-Spaghetti-Squash-4.jpg)
 
 ### Eggplant Marinara Stuffed Spaghetti Squash
 

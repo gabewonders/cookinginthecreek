@@ -24,13 +24,13 @@ tags:
 
 It’s the end of deer season. That means we now know whether there will be deer in the Thanksgiving stuffing or not. Although my dad did not get a deer of his own this year, lucky for him, his friend who doesn’t eat deer, was able to bag one. My dad, being the generous man that he is, gave Megan and I some ground venison to cook at home. We were pretty clueless about how to cook venison so I quickly went to the help of Google. I found a recipe for stuffed bell peppers and simply substituted the ground beef with venison. The bell peppers turned out great, the venison was much more lean than ground beef and of course anything cooked in garlic and covered in cheese tastes delicious. As venison is a little more rare to come by in the grocery store, feel free to use ground beef, ground turkey or ground bison. If you have the opportunity to try venison, I recommend it!
 
-[![Enjoy this easy to make stuffed bell pepper dish filled with the meat of your choice, rice, sour cream, onions and topped with melted cheese. | cookinginthecreek.com](/wp-content/uploads/2014/11/Venison-Stuff-Bell-Peppers-1-1024x681.jpg)](/wp-content/uploads/2014/11/Venison-Stuff-Bell-Peppers-1.jpg)
+[![Enjoy this easy to make stuffed bell pepper dish filled with the meat of your choice, rice, sour cream, onions and topped with melted cheese.](/wp-content/uploads/2014/11/Venison-Stuff-Bell-Peppers-1-1024x681.jpg)](/wp-content/uploads/2014/11/Venison-Stuff-Bell-Peppers-1.jpg)
 
-[![Enjoy this easy to make stuffed bell pepper dish filled with the meat of your choice, rice, sour cream, onions and topped with melted cheese. | cookinginthecreek.com](/wp-content/uploads/2014/11/Venison-Stuff-Bell-Peppers-2-1024x681.jpg)](/wp-content/uploads/2014/11/Venison-Stuff-Bell-Peppers-2.jpg)
+[![Enjoy this easy to make stuffed bell pepper dish filled with the meat of your choice, rice, sour cream, onions and topped with melted cheese.](/wp-content/uploads/2014/11/Venison-Stuff-Bell-Peppers-2-1024x681.jpg)](/wp-content/uploads/2014/11/Venison-Stuff-Bell-Peppers-2.jpg)
 
-[![Enjoy this easy to make stuffed bell pepper dish filled with the meat of your choice, rice, sour cream, onions and topped with melted cheese. | cookinginthecreek.com](/wp-content/uploads/2014/11/Venison-Stuff-Bell-Peppers-3-681x1024.jpg)](/wp-content/uploads/2014/11/Venison-Stuff-Bell-Peppers-3.jpg)
+[![Enjoy this easy to make stuffed bell pepper dish filled with the meat of your choice, rice, sour cream, onions and topped with melted cheese.](/wp-content/uploads/2014/11/Venison-Stuff-Bell-Peppers-3-681x1024.jpg)](/wp-content/uploads/2014/11/Venison-Stuff-Bell-Peppers-3.jpg)
 
-[![Enjoy this easy to make stuffed bell pepper dish filled with the meat of your choice, rice, sour cream, onions and topped with melted cheese. | cookinginthecreek.com](/wp-content/uploads/2014/11/Venison-Stuff-Bell-Peppers-4-1024x681.jpg)](/wp-content/uploads/2014/11/Venison-Stuff-Bell-Peppers-4.jpg)
+[![Enjoy this easy to make stuffed bell pepper dish filled with the meat of your choice, rice, sour cream, onions and topped with melted cheese.](/wp-content/uploads/2014/11/Venison-Stuff-Bell-Peppers-4-1024x681.jpg)](/wp-content/uploads/2014/11/Venison-Stuff-Bell-Peppers-4.jpg)
 
 ### Ingredients
 

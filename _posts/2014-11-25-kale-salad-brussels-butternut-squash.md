@@ -25,13 +25,13 @@ tags:
 
 It’s the potluck time of year, and at work last week we had a Thanksgiving themed potluck. People went all out! We had mashed potatoes, stuffing, cranberry sauce, autumn salads, spanish rice, pies, cakes, and two types of turkeys! (Smoked and Oven Roasted) It was amazing. I decided to bring this kale salad with brussel sprouts, roasted butternut squash topped with pomegranate seeds and candied pecans. It was the perfect addition to the potluck and added something healthy to the table of comfort food dishes. It was well received by my coworkers, some that actually had never tried kale before liked it! This salad is perfect for fall and would be the perfect addition to any Thanksgiving dinner table. Enjoy!
 
-[![The perfect autumn salad, great for potlucks or Thanksgiving dinner! Filled with nutritious kale, brussel sprouts, and butternut squash. | cookinginthecreek.com](/wp-content/uploads/2014/11/Kale-Salad-with-Brussels-and-Butternut-Squash-2.jpg)](/wp-content/uploads/2014/11/Kale-Salad-with-Brussels-and-Butternut-Squash-2.jpg)
+[![The perfect autumn salad, great for potlucks or Thanksgiving dinner! Filled with nutritious kale, brussel sprouts, and butternut squash.](/wp-content/uploads/2014/11/Kale-Salad-with-Brussels-and-Butternut-Squash-2.jpg)](/wp-content/uploads/2014/11/Kale-Salad-with-Brussels-and-Butternut-Squash-2.jpg)
 
-[![The perfect autumn salad, great for potlucks or Thanksgiving dinner! Filled with nutritious kale, brussel sprouts, and butternut squash. | cookinginthecreek.com](/wp-content/uploads/2014/11/Kale-Salad-with-Brussels-and-Butternut-Squash-3.jpg)](/wp-content/uploads/2014/11/Kale-Salad-with-Brussels-and-Butternut-Squash-3.jpg)
+[![The perfect autumn salad, great for potlucks or Thanksgiving dinner! Filled with nutritious kale, brussel sprouts, and butternut squash.](/wp-content/uploads/2014/11/Kale-Salad-with-Brussels-and-Butternut-Squash-3.jpg)](/wp-content/uploads/2014/11/Kale-Salad-with-Brussels-and-Butternut-Squash-3.jpg)
 
-[![The perfect autumn salad, great for potlucks or Thanksgiving dinner! Filled with nutritious kale, brussel sprouts, and butternut squash. | cookinginthecreek.com](/wp-content/uploads/2014/11/Kale-Salad-with-Brussels-and-Butternut-Squash-4.jpg)](/wp-content/uploads/2014/11/Kale-Salad-with-Brussels-and-Butternut-Squash-4.jpg)
+[![The perfect autumn salad, great for potlucks or Thanksgiving dinner! Filled with nutritious kale, brussel sprouts, and butternut squash.](/wp-content/uploads/2014/11/Kale-Salad-with-Brussels-and-Butternut-Squash-4.jpg)](/wp-content/uploads/2014/11/Kale-Salad-with-Brussels-and-Butternut-Squash-4.jpg)
 
-[![The perfect autumn salad, great for potlucks or Thanksgiving dinner! Filled with nutritious kale, brussel sprouts, and butternut squash. | cookinginthecreek.com](/wp-content/uploads/2014/11/Kale-Salad-with-Brussels-and-Butternut-Squash-5.jpg)](/wp-content/uploads/2014/11/Kale-Salad-with-Brussels-and-Butternut-Squash-5.jpg)
+[![The perfect autumn salad, great for potlucks or Thanksgiving dinner! Filled with nutritious kale, brussel sprouts, and butternut squash.](/wp-content/uploads/2014/11/Kale-Salad-with-Brussels-and-Butternut-Squash-5.jpg)](/wp-content/uploads/2014/11/Kale-Salad-with-Brussels-and-Butternut-Squash-5.jpg)
 
 ### Kale Salad with Brussels and Butternut Squash
 

@@ -19,7 +19,7 @@ tags:
 
 These savory corn muffins were the perfect complement to the [Slow Cooker Vegetarian Chili](http://cookinginthecreek.com/slow-cooker-vegetarian-chili/) that Gabe and I made last week. Nothing goes better with a warm bowl of hearty chili than a sweet and savory corn muffin. Dress it up if you like with a touch of butter and a drizzle of honey, for a sweet and savory side dish to your meal, or just enjoy as is!
 
-[![These savory corn muffins are the perfect complement to a warm bowl of chili or stew on a crisp fall day! | cookinginthecreek.com](/wp-content/uploads/2014/11/Garlic-and-Sun-Dried-Tomato-Corn-Muffins-1-681x1024.jpg)](/wp-content/uploads/2014/11/Garlic-and-Sun-Dried-Tomato-Corn-Muffins-1.jpg)
+[![These savory corn muffins are the perfect complement to a warm bowl of chili or stew on a crisp fall day!](/wp-content/uploads/2014/11/Garlic-and-Sun-Dried-Tomato-Corn-Muffins-1-681x1024.jpg)](/wp-content/uploads/2014/11/Garlic-and-Sun-Dried-Tomato-Corn-Muffins-1.jpg)
 
 ### Garlic and Sun Dried Tomato Corn Muffins
 
