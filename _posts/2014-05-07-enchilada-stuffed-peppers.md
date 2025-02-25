@@ -18,7 +18,7 @@ tags:
     - vegetables
 ---
 
-<div>This recipe has a fun twist on the typical stuffed bell pepper. It has the flavors of an enchilada with all different textures being stuffed into the pepper, with the shredded chicken, white beans, and sautéed veggies, topped with the avocado crema. It’s delicious!
+This recipe has a fun twist on the typical stuffed bell pepper. It has the flavors of an enchilada with all different textures being stuffed into the pepper, with the shredded chicken, white beans, and sautéed veggies, topped with the avocado crema. It’s delicious!
 
 [![enchilada-stuffed-peppers2](/wp-content/uploads/2014/05/enchilada-stuffed-peppers2-1024x681.jpg)](/wp-content/uploads/2014/05/enchilada-stuffed-peppers2.jpg)
 
@@ -34,7 +34,7 @@ Yield: 4 servings
 
 ### Ingredients
 
-<div>4 bell peppers  
+4 bell peppers  
 2 tablespoons olive oil  
 1 jalapeno pepper, seeded and diced  
 1/4 red onion, diced  
@@ -52,9 +52,9 @@ Yield: 4 servings
 1/4 teaspoon salt  
 1/4 teaspoon pepper
 
-</div></div><div>### Instructions
+### Instructions
 
-<div>Preheat oven to 350 degrees F.
+Preheat oven to 350 degrees F.
 
 Slice the tops off of the peppers. Cut around the stems and chop the surrounding pieces. Remove the seeds and any stem inside of the peppers. Place the peppers cut-side up in a baking dish.
 
@@ -66,5 +66,3 @@ To make the avocado cream, combine all ingredients in a food processor or blende
 \*For the shredded chicken, I cooked 2 chicken breasts in a crock pot on low (4-6 hours depending on the size of the breasts). Just put in the chicken, 1/2 cup of chicken broth, 1/4 of water, and whatever seasoning you like. I used taco seasoning to complement the other flavors in this recipe. Once it’s finished cooking, you’ll be able to shred the chicken breasts with 2 forks.
 
 Recipe inspired by [How Sweet Eats](http://www.howsweeteats.com/2013/09/white-bean-chicken-enchilada-stuffed-peppers/#_a5y_p=1218168).
-
-</div></div>
