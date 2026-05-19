@@ -1,0 +1,16 @@
+<header class="site-header">
+  <div class="container site-header__inner">
+    <a class="site-title" href="{{ '/' | relative_url }}" style="display:flex;flex-direction:row;align-items:center;gap:0.5rem;text-decoration:none;white-space:nowrap;">
+      <img class="site-title__logo" style="display:block;width:40px;height:40px;min-width:40px;flex-shrink:0" src="{{ '/assets/images/cooking-in-the-creek-logo.svg' | relative_url }}" width="40" height="40" alt="" aria-hidden="true">
+      <span style="font-size:1.3rem;font-weight:700;letter-spacing:-0.02em;color:inherit;">{{ site.title }}</span>
+    </a>
+    <nav aria-label="Primary">
+      <ul class="site-nav">
+        <li><a href="{{ '/recipes/' | relative_url }}"{% if page.url == '/recipes/' %} class="active" aria-current="page"{% endif %}>Recipes</a></li>
+        <li><a href="{{ '/categories/' | relative_url }}"{% if page.url == '/categories/' %} class="active" aria-current="page"{% endif %}>Categories</a></li>
+        <li><a href="{{ '/tags/' | relative_url }}"{% if page.url == '/tags/' %} class="active" aria-current="page"{% endif %}>Tags</a></li>
+        <li><a href="{{ '/about/' | relative_url }}"{% if page.url == '/about/' %} class="active" aria-current="page"{% endif %}>About</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>

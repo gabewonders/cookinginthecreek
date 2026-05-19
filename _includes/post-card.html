@@ -1,0 +1,24 @@
+{% assign post_item = include.post %}
+{% assign card_image = post_item.image | replace: '/wordpress/wp-content/', '/wp-content/' %}
+
+<article class="post-card">
+  <a class="post-card__link" href="{{ post_item.url | relative_url }}">
+    {% if card_image %}
+      <img class="post-card__image" src="{{ card_image | relative_url }}" alt="{{ post_item.title | escape }}">
+    {% else %}
+      <div class="post-card__image post-card__image--placeholder" aria-hidden="true"></div>
+    {% endif %}
+    <div class="post-card__body">
+      <p class="post-card__meta">{{ post_item.date | date: "%b %-d, %Y" }}</p>
+      <h3>{{ post_item.title }}</h3>
+      <p>{{ post_item.excerpt | strip_html | normalize_whitespace | truncate: 110 }}</p>
+      {% if post_item.categories and post_item.categories.size > 0 %}
+        <p class="post-card__chips">
+          {% for category in post_item.categories limit: 2 %}
+            <span class="chip">{{ category }}</span>
+          {% endfor %}
+        </p>
+      {% endif %}
+    </div>
+  </a>
+</article>

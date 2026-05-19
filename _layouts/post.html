@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+{% assign hero_image = page.image | replace: '/wordpress/wp-content/', '/wp-content/' %}
+
+<article class="recipe-post container">
+  <header class="recipe-post__header">
+    <p class="recipe-post__date">{{ page.date | date: "%b %-d, %Y" }}</p>
+    <h1>{{ page.title }}</h1>
+    {% if page.categories and page.categories.size > 0 %}
+      <p class="recipe-post__chips" aria-label="Categories">
+        {% for category in page.categories %}
+          <a href="{{ '/categories/' | relative_url }}#{{ category | slugify }}" class="chip">{{ category }}</a>
+        {% endfor %}
+      </p>
+    {% endif %}
+    {% if page.tags and page.tags.size > 0 %}
+      <p class="recipe-post__chips" aria-label="Tags">
+        {% for tag in page.tags limit: 6 %}
+          <a href="{{ '/tags/' | relative_url }}#{{ tag | slugify }}" class="chip chip--tag">{{ tag }}</a>
+        {% endfor %}
+      </p>
+    {% endif %}
+  </header>
+
+  {% if hero_image %}
+    <figure class="recipe-post__hero">
+      <img src="{{ hero_image | relative_url }}" alt="{{ page.title | escape }}">
+    </figure>
+  {% endif %}
+
+  {% if page.content contains '### Ingredients' or page.content contains '### Instructions' %}
+    <nav class="recipe-post__quicklinks" aria-label="Recipe sections">
+      <span>Jump to:</span>
+      {% if page.content contains '### Ingredients' %}<a href="#ingredients">Ingredients</a>{% endif %}
+      {% if page.content contains '### Instructions' %}<a href="#instructions">Instructions</a>{% endif %}
+    </nav>
+  {% endif %}
+
+  <div class="recipe-post__content">
+    {{ content }}
+  </div>
+</article>

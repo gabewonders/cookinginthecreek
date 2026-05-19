@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<section class="hero">
+  <div class="container hero__inner">
+    <div style="display:flex;flex-direction:row;align-items:center;gap:1.5rem;">
+      <img style="display:block;width:110px;height:110px;min-width:110px;flex-shrink:0;align-self:center;" src="{{ '/assets/images/cooking-in-the-creek-logo.svg' | relative_url }}" width="110" height="110" alt="">
+      <div style="display:flex;flex-direction:column;gap:0.25rem;">
+        <p class="hero__kicker" style="margin:0;">Two cooks, one kitchen, made with love</p>
+        <h1 style="margin:0;">{{ site.title }}</h1>
+        <p class="hero__lede" style="margin:0;">{{ site.description }}</p>
+        <div style="margin-top:0.75rem;">
+          <a class="button" href="{{ '/recipes/' | relative_url }}">Browse Recipes</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="container section">
+  <div class="section__header">
+    <h2>Latest Posts</h2>
+    <a href="{{ '/recipes/' | relative_url }}">View all</a>
+  </div>
+
+  {% if site.posts.size > 0 %}
+    <div class="cards-grid">
+      {% for post in site.posts %}
+        {% include post-card.html post=post %}
+      {% endfor %}
+    </div>
+  {% else %}
+    <p>No recipes yet. Check back soon.</p>
+  {% endif %}
+</section>
